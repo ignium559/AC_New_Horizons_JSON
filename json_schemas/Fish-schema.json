@@ -1,0 +1,163 @@
+{
+	"definitions": {},
+	"$schema": "http://json-schema.org/draft-07/schema#", 
+	"$id": "https://example.com/object1585512522.json", 
+	"title": "Root", 
+	"type": "array",
+	"default": [],
+	"items":{
+		"$id": "#root/items", 
+		"title": "Items", 
+		"type": "object",
+		"required": [
+			"id",
+			"name",
+			"location",
+			"shadow_size",
+			"price",
+			"times",
+			"months"
+		],
+		"properties": {
+			"id": {
+				"$id": "#root/items/id", 
+				"title": "Id", 
+				"type": "integer",
+				"default": 0
+			},
+			"name": {
+				"$id": "#root/items/name", 
+				"title": "Name", 
+				"type": "string",
+				"default": "",
+				"pattern": "^.*$"
+			},
+			"location": {
+				"$id": "#root/items/location", 
+				"title": "Location", 
+				"type": "string",
+				"default": "",
+				"pattern": "^.*$"
+			},
+			"shadow_size": {
+				"$id": "#root/items/shadow_size", 
+				"title": "Shadow_size", 
+				"type": "string",
+				"default": "",
+				"pattern": "^.*$"
+			},
+			"price": {
+				"$id": "#root/items/price", 
+				"title": "Price", 
+				"type": "integer",
+				"default": 0
+			},
+			"times": {
+				"$id": "#root/items/times", 
+				"title": "Times", 
+				"type": "object",
+				"required": [
+					"array",
+					"text"
+				],
+				"properties": {
+					"array": {
+						"$id": "#root/items/times/array", 
+						"title": "Array", 
+						"type": "array",
+						"default": [],
+						"items":{
+							"$id": "#root/items/times/array/items", 
+							"title": "Items", 
+							"type": "integer",
+							"default": 0
+						}
+					},
+					"text": {
+						"$id": "#root/items/times/text", 
+						"title": "Text", 
+						"type": "string",
+						"default": "",
+						"pattern": "^.*$"
+					}
+				}
+			}
+,
+			"months": {
+				"$id": "#root/items/months", 
+				"title": "Months", 
+				"type": "object",
+				"required": [
+					"northern",
+					"southern"
+				],
+				"properties": {
+					"northern": {
+						"$id": "#root/items/months/northern", 
+						"title": "Northern", 
+						"type": "object",
+						"required": [
+							"array",
+							"text"
+						],
+						"properties": {
+							"array": {
+								"$id": "#root/items/months/northern/array", 
+								"title": "Array", 
+								"type": "array",
+								"default": [],
+								"items":{
+									"$id": "#root/items/months/northern/array/items", 
+									"title": "Items", 
+									"type": "integer",
+									"default": 0
+								}
+							},
+							"text": {
+								"$id": "#root/items/months/northern/text", 
+								"title": "Text", 
+								"type": "string",
+								"default": "",
+								"pattern": "^.*$"
+							}
+						}
+					}
+,
+					"southern": {
+						"$id": "#root/items/months/southern", 
+						"title": "Southern", 
+						"type": "object",
+						"required": [
+							"array",
+							"text"
+						],
+						"properties": {
+							"array": {
+								"$id": "#root/items/months/southern/array", 
+								"title": "Array", 
+								"type": "array",
+								"default": [],
+								"items":{
+									"$id": "#root/items/months/southern/array/items", 
+									"title": "Items", 
+									"type": "integer",
+									"default": 0
+								}
+							},
+							"text": {
+								"$id": "#root/items/months/southern/text", 
+								"title": "Text", 
+								"type": "string",
+								"default": "",
+								"pattern": "^.*$"
+							}
+						}
+					}
+
+				}
+			}
+
+		}
+	}
+
+}
