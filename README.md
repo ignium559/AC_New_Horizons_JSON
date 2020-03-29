@@ -1,7 +1,8 @@
-Contains data for Animal Crossing: New Horizons in JSON format.
+<h2>AC: New Horizons JSON data</h2>
+<p>Contains data for Animal Crossing: New Horizons in JSON format.</p>
 
-Structure for fish:
-
+<h5>Structure for fish:</h5>
+<pre>
 id                      //ID number of fish (int)
 name                    //Name of fish (string)
 location                //Location where fish can be found (string)
@@ -17,10 +18,10 @@ months                  //Months fish is available
 |_southern                  //...for southern hemisphere
      |_array                    //array form of months (e.g. [1, 2, 3, 4])
      |_text                     //text format of months (e.g. "January - April")
+</pre>
 
-
-Structure for insects
-
+<h5>Structure for insects</h5>
+<pre>
 id                      //ID number of insect (int)
 name                    //Name of insect (string)
 location                //Location where insect can be found (string)
@@ -35,3 +36,6 @@ months                  //Months insect is available
 |_southern                  //...for southern hemisphere
      |_array                    //array form of months (e.g. [1, 2, 3, 4])
      |_text                     //text format of months (e.g. "January - April")
+</pre>
+
+<p>This is the current data I have (scrapped from the internet), pull requests are welcome (but please stick to the schema).
