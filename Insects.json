@@ -1201,7 +1201,7 @@
         "id": 26,
         "name": "Brown Cicada",
         "location": "On trees",
-        "price": -1,
+        "price": 250,
         "times": {
             "array": [
                 8,
@@ -1237,7 +1237,7 @@
         "id": 27,
         "name": "Robust Cicada",
         "location": "On trees",
-        "price": -1,
+        "price": 300,
         "times": {
             "array": [
                 8,
@@ -1273,7 +1273,7 @@
         "id": 28,
         "name": "Giant Cicada",
         "location": "On trees",
-        "price": -1,
+        "price": 600,
         "times": {
             "array": [
                 8,
@@ -1345,7 +1345,7 @@
         "id": 30,
         "name": "Evening Cicada",
         "location": "On trees",
-        "price": -1,
+        "price": 660,
         "times": {
             "array": [
                 4,
@@ -1379,7 +1379,7 @@
         "id": 31,
         "name": "Cicada Shell",
         "location": "On trees",
-        "price": -1,
+        "price": 10,
         "times": {
             "array": [
                 0,
@@ -1558,7 +1558,7 @@
         "id": 35,
         "name": "Damselfly",
         "location": "Flying",
-        "price": -1,
+        "price": 500,
         "times": {
             "array": [
                 0,
@@ -1613,7 +1613,7 @@
         "id": 36,
         "name": "Firefly",
         "location": "Flying",
-        "price": -1,
+        "price": 300,
         "times": {
             "array": [
                 0,
@@ -2310,8 +2310,8 @@
     {
         "id": 49,
         "name": "Blue Weevil Beetle",
-        "location": "--UNKNOWN--",
-        "price": -1,
+        "location": "On palm trees",
+        "price": 800,
         "times": {
             "array": [
                 0,
@@ -2362,10 +2362,10 @@
         "id": 50,
         "name": "Dung Beetle",
         "location": "Pushing snowballs",
-        "price": -1,
+        "price": 3000,
         "times": {
             "array": [],
-            "text": ""
+            "text": "--UNKNOWN--"
         },
         "months": {
             "northern": {
@@ -2443,7 +2443,7 @@
         "id": 52,
         "name": "Scarab Beetle",
         "location": "On trees",
-        "price": -1,
+        "price": 10000,
         "times": {
             "array": [
                 0,
@@ -2479,7 +2479,7 @@
         "id": 53,
         "name": "Drone Beetle",
         "location": "On trees",
-        "price": -1,
+        "price": 200,
         "times": {
             "array": [
                 0,
@@ -2578,7 +2578,7 @@
         "id": 55,
         "name": "Saw Stag",
         "location": "On trees",
-        "price": -1,
+        "price": 2000,
         "times": {
             "array": [
                 0,
@@ -2629,7 +2629,7 @@
         "id": 56,
         "name": "Miyama Stag",
         "location": "On trees",
-        "price": -1,
+        "price": 1000,
         "times": {
             "array": [
                 0,
@@ -2680,7 +2680,7 @@
         "id": 57,
         "name": "Giant Stag",
         "location": "On trees",
-        "price": -1,
+        "price": 10000,
         "times": {
             "array": [
                 0,
@@ -2760,7 +2760,7 @@
         "id": 59,
         "name": "Cyclommatus Stag",
         "location": "On trees",
-        "price": -1,
+        "price": 8000,
         "times": {
             "array": [
                 0,
@@ -2802,7 +2802,7 @@
         "id": 60,
         "name": "Golden Stag",
         "location": "On trees",
-        "price": -1,
+        "price": 12000,
         "times": {
             "array": [
                 0,
@@ -2844,7 +2844,7 @@
         "id": 61,
         "name": "Giraffe Stag",
         "location": "On trees",
-        "price": -1,
+        "price": 12000,
         "times": {
             "array": [
                 0,
@@ -2886,7 +2886,7 @@
         "id": 62,
         "name": "Horned Dynastid",
         "location": "On trees",
-        "price": -1,
+        "price": 1350,
         "times": {
             "array": [
                 0,
@@ -2928,7 +2928,7 @@
         "id": 63,
         "name": "Horned Atlas",
         "location": "On trees",
-        "price": -1,
+        "price": 8000,
         "times": {
             "array": [
                 0,
@@ -2970,7 +2970,7 @@
         "id": 64,
         "name": "Horned Elephant",
         "location": "On trees",
-        "price": -1,
+        "price": 8000,
         "times": {
             "array": [
                 0,
@@ -3012,7 +3012,7 @@
         "id": 65,
         "name": "Horned Herucles",
         "location": "On trees",
-        "price": -1,
+        "price": 12000,
         "times": {
             "array": [
                 0,
@@ -3054,7 +3054,7 @@
         "id": 66,
         "name": "Walking Stick",
         "location": "Falls from shaking trees",
-        "price": -1,
+        "price":600,
         "times": {
             "array": [
                 4,
@@ -3215,8 +3215,8 @@
     {
         "id": 69,
         "name": "Ant",
-        "location": "On rotten food",
-        "price": -1,
+        "location": "On Rotten Food",
+        "price": 80,
         "times": {
             "array": [
                 0,
@@ -3418,7 +3418,7 @@
         "id": 72,
         "name": "Fly",
         "location": "On trash items",
-        "price": -1,
+        "price": 60,
         "times": {
             "array": [
                 0,
@@ -3531,7 +3531,7 @@
         "id": 74,
         "name": "Flea",
         "location": "On villagers",
-        "price": -1,
+        "price": 70,
         "times": {
             "array": [
                 0,
