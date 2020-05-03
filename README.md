@@ -38,4 +38,11 @@ months                  //Months insect is available
      |_text                     //text format of months (e.g. "January - April")
 </pre>
 
+<h5>Structure for fossils</h5>
+<pre>
+fossil                   //Name of parent fossil (string)
+part_name                //Individual part's name (the item assessed by Blathers) (string)
+price                    //Price assessed fossil can be sold for (int)
+</pre>
+
 <p>This is the current data I have (scrapped from the internet), pull requests are welcome (but please stick to the schema).
