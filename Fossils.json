@@ -1,0 +1,367 @@
+[
+  {
+    "fossil": "Acanthostega",
+    "part_name": "Acanthostega",
+    "price": 2000
+  },
+  {
+    "fossil": "Amber",
+    "part_name": "Amber",
+    "price": 1200
+  },
+  {
+    "fossil": "Ammonite",
+    "part_name": "Ammonite",
+    "price": 1100
+  },
+  {
+    "fossil": "Anomalocaris",
+    "part_name": "Anomalocaris",
+    "price": 2000
+  },
+  {
+    "fossil": "Archaeopteryx",
+    "part_name": "Archaeopteryx",
+    "price": 1300
+  },
+  {
+    "fossil": "Australopith",
+    "part_name": "Australopith",
+    "price": 1100
+  },
+  {
+    "fossil": "Coprolite",
+    "part_name": "Coprolite",
+    "price": 1100
+  },
+  {
+    "fossil": "Dinosaurtrack",
+    "part_name": "Dinosaurtrack",
+    "price": 1000
+  },
+  {
+    "fossil": "Dunkleosteus",
+    "part_name": "Dunkleosteus",
+    "price": 3500
+  },
+  {
+    "fossil": "Eusthenopteron",
+    "part_name": "Eusthenopteron",
+    "price": 2000
+  },
+  {
+    "fossil": "Juramaia",
+    "part_name": "Juramaia",
+    "price": 1000
+  },
+  {
+    "fossil": "Myllokunmingia",
+    "part_name": "Myllokunmingia",
+    "price": 1500
+  },
+  {
+    "fossil": "Shark-toothpattern",
+    "part_name": "Shark-toothpattern",
+    "price": 1000
+  },
+  {
+    "fossil": "Trilobite",
+    "part_name": "Trilobite",
+    "price": 1300
+  },
+  {
+    "fossil": "Ankylosaurus",
+    "part_name": "Ankylo skull",
+    "price": 5000
+  },
+  {
+    "fossil": "Ankylosaurus",
+    "part_name": "Ankylo torso",
+    "price": 3000
+  },
+  {
+    "fossil": "Ankylosaurus",
+    "part_name": "Ankylo tail",
+    "price": 2500
+  },
+  {
+    "fossil": "Archelon",
+    "part_name": "Archelon skull",
+    "price": 4000
+  },
+  {
+    "fossil": "Archelon",
+    "part_name": "Archelon tail",
+    "price": 3500
+  },
+  {
+    "fossil": "Brachiosaurus",
+    "part_name": "Brachio skull",
+    "price": 6000
+  },
+  {
+    "fossil": "Brachiosaurus",
+    "part_name": "Brachio chest",
+    "price": 5500
+  },
+  {
+    "fossil": "Brachiosaurus",
+    "part_name": "Brachio pelvis",
+    "price": 5000
+  },
+  {
+    "fossil": "Brachiosaurus",
+    "part_name": "Brachio tail",
+    "price": 5500
+  },
+  {
+    "fossil": "Deinonychus",
+    "part_name": "Deinony torso",
+    "price": 3000
+  },
+  {
+    "fossil": "Deinonychus",
+    "part_name": "Deinony tail",
+    "price": 2500
+  },
+  {
+    "fossil": "Dimetrodon",
+    "part_name": "Dimetrodon skull",
+    "price": 5500
+  },
+  {
+    "fossil": "Dimetrodon",
+    "part_name": "Dimetrodon torso",
+    "price": 5000
+  },
+  {
+    "fossil": "Diplodocus",
+    "part_name": "Diplo skull",
+    "price": 5000
+  },
+  {
+    "fossil": "Diplodocus",
+    "part_name": "Diploneck",
+    "price": 4500
+  },
+  {
+    "fossil": "Diplodocus",
+    "part_name": "Diplo chest",
+    "price": 4000
+  },
+  {
+    "fossil": "Diplodocus",
+    "part_name": "Diplo pelvis",
+    "price": 4500
+  },
+  {
+    "fossil": "Diplodocus",
+    "part_name": "Diplo tail",
+    "price": 5000
+  },
+  {
+    "fossil": "Diplodocus",
+    "part_name": "Diplo tail tip",
+    "price": 4000
+  },
+  {
+    "fossil": "Iguanodon",
+    "part_name": "Iguanodon skull",
+    "price": 4000
+  },
+  {
+    "fossil": "Iguanodon",
+    "part_name": "Iguanodon torso",
+    "price": 3500
+  },
+  {
+    "fossil": "Iguanodon",
+    "part_name": "Iguanodon tail",
+    "price": 3000
+  },
+  {
+    "fossil": "Mammoth",
+    "part_name": "Mammoth skull",
+    "price": 3000
+  },
+  {
+    "fossil": "Mammoth",
+    "part_name": "Mammoth torso",
+    "price": 2500
+  },
+  {
+    "fossil": "Megacerops",
+    "part_name": "Megacero skull",
+    "price": 4500
+  },
+  {
+    "fossil": "Megacerops",
+    "part_name": "Megacero torso",
+    "price": 3500
+  },
+  {
+    "fossil": "Megacerops",
+    "part_name": "Megacero tail",
+    "price": 3000
+  },
+  {
+    "fossil": "Megaloceros",
+    "part_name": "Left megaloside",
+    "price": 4000
+  },
+  {
+    "fossil": "Megaloceros",
+    "part_name": "Right megaloside",
+    "price": 5500
+  },
+  {
+    "fossil": "Ophthalmosaurus",
+    "part_name": "Ophthalmo skull",
+    "price": 2500
+  },
+  {
+    "fossil": "Ophthalmosaurus",
+    "part_name": "Ophthalmo torso",
+    "price": 2000
+  },
+  {
+    "fossil": "Pachycephalosaurus",
+    "part_name": "Pachysaurus skull",
+    "price": 4000
+  },
+  {
+    "fossil": "Pachycephalosaurus",
+    "part_name": "Pachysaurus tail",
+    "price": 3500
+  },
+  {
+    "fossil": "Parasaurolophus",
+    "part_name": "Parasaur skull",
+    "price": 3500
+  },
+  {
+    "fossil": "Parasaurolophus",
+    "part_name": "Parasaur torso",
+    "price": 3000
+  },
+  {
+    "fossil": "Parasaurolophus",
+    "part_name": "Parasaur tail",
+    "price": 2500
+  },
+  {
+    "fossil": "Plesiosaurus",
+    "part_name": "Plesio skull",
+    "price": 4000
+  },
+  {
+    "fossil": "Plesiosaurus",
+    "part_name": "Plesio tail",
+    "price": 4500
+  },
+  {
+    "fossil": "Plesiosaurus",
+    "part_name": "Plesiobody",
+    "price": 4500
+  },
+  {
+    "fossil": "Pteranodon",
+    "part_name": "Right ptera wing",
+    "price": 4500
+  },
+  {
+    "fossil": "Pteranodon",
+    "part_name": "Pterabody",
+    "price": 4000
+  },
+  {
+    "fossil": "Pteranodon",
+    "part_name": "Left ptera wing",
+    "price": 4500
+  },
+  {
+    "fossil": "Quetzalcoatlus",
+    "part_name": "Right quetzal wing",
+    "price": 5000
+  },
+  {
+    "fossil": "Quetzalcoatlus",
+    "part_name": "Quetzal torso",
+    "price": 4500
+  },
+  {
+    "fossil": "Quetzalcoatlus",
+    "part_name": "Left quetzal wing",
+    "price": 5000
+  },
+  {
+    "fossil": "Sabertooth Tiger",
+    "part_name": "Sabertooth skull",
+    "price": 2500
+  },
+  {
+    "fossil": "Sabertooth Tiger",
+    "part_name": "Sabertooth tail",
+    "price": 2000
+  },
+  {
+    "fossil": "Spinosaurus",
+    "part_name": "Spino skull",
+    "price": 4000
+  },
+  {
+    "fossil": "Spinosaurus",
+    "part_name": "Spino torso",
+    "price": 5000
+  },
+  {
+    "fossil": "Spinosaurus",
+    "part_name": "Spino tail",
+    "price": 2500
+  },
+  {
+    "fossil": "Stegosaurus",
+    "part_name": "Stego skull",
+    "price": 5000
+  },
+  {
+    "fossil": "Stegosaurus",
+    "part_name": "Stego torso",
+    "price": 4500
+  },
+  {
+    "fossil": "Stegosaurus",
+    "part_name": "Stego tail",
+    "price": 4000
+  },
+  {
+    "fossil": "Triceratops",
+    "part_name": "Tricera skull",
+    "price": 5500
+  },
+  {
+    "fossil": "Triceratops",
+    "part_name": "Tricera torso",
+    "price": 5000
+  },
+  {
+    "fossil": "Triceratops",
+    "part_name": "Tricera tail",
+    "price": 4500
+  },
+  {
+    "fossil": "Tyrannosaurus Rex",
+    "part_name": "T. rex  skull",
+    "price": 6000
+  },
+  {
+    "fossil": "Tyrannosaurus Rex",
+    "part_name": "T. rex  torso",
+    "price": 5500
+  },
+  {
+    "fossil": "Tyrannosaurus Rex",
+    "part_name": "T. rex  tail",
+    "price": 5000
+  }
+]
