@@ -1,0 +1,5163 @@
+[
+    {
+        "name": "Admiral",
+        "species": "Bird",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 1,
+            "day": 27,
+            "text": "January 27th"
+        },
+        "zodiac": "Aquarius",
+        "data_url": "https://nookipedia.com/wiki/Admiral"
+    },
+    {
+        "name": "Agent S",
+        "species": "Squirrel",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 7,
+            "day": 2,
+            "text": "July 2nd"
+        },
+        "zodiac": "Cancer",
+        "data_url": "https://nookipedia.com/wiki/Agent_S"
+    },
+    {
+        "name": "Agnes",
+        "species": "Pig",
+        "personality": "Sisterly",
+        "gender": "Female",
+        "birthday": {
+            "month": 4,
+            "day": 21,
+            "text": "April 21st"
+        },
+        "zodiac": "Taurus",
+        "data_url": "https://nookipedia.com/wiki/Agnes"
+    },
+    {
+        "name": "Al",
+        "species": "Gorilla",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 10,
+            "day": 18,
+            "text": "October 18th"
+        },
+        "zodiac": "Libra",
+        "data_url": "https://nookipedia.com/wiki/Al"
+    },
+    {
+        "name": "Alfonso",
+        "species": "Alligator",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 6,
+            "day": 9,
+            "text": "June 9th"
+        },
+        "zodiac": "Gemini",
+        "data_url": "https://nookipedia.com/wiki/Alfonso"
+    },
+    {
+        "name": "Alice",
+        "species": "Koala",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 8,
+            "day": 19,
+            "text": "August 19th"
+        },
+        "zodiac": "Leo",
+        "data_url": "https://nookipedia.com/wiki/Alice"
+    },
+    {
+        "name": "Alli",
+        "species": "Alligator",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 11,
+            "day": 8,
+            "text": "November 8th"
+        },
+        "zodiac": "Scorpio",
+        "data_url": "https://nookipedia.com/wiki/Alli"
+    },
+    {
+        "name": "Amelia",
+        "species": "Eagle",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 11,
+            "day": 19,
+            "text": "November 19th"
+        },
+        "zodiac": "Scorpio",
+        "data_url": "https://nookipedia.com/wiki/Amelia"
+    },
+    {
+        "name": "Anabelle",
+        "species": "Anteater",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 2,
+            "day": 16,
+            "text": "February 16"
+        },
+        "zodiac": "Aquarius",
+        "data_url": "https://nookipedia.com/wiki/Anabelle"
+    },
+    {
+        "name": "Anchovy",
+        "species": "Bird",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 3,
+            "day": 4,
+            "text": "March 4th"
+        },
+        "zodiac": "Pisces",
+        "data_url": "https://nookipedia.com/wiki/Anchovy"
+    },
+    {
+        "name": "Angus",
+        "species": "Bull",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 4,
+            "day": 30,
+            "text": "April 30th"
+        },
+        "zodiac": "Taurus",
+        "data_url": "https://nookipedia.com/wiki/Angus"
+    },
+    {
+        "name": "Anicotti",
+        "species": "Mouse",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 2,
+            "day": 24,
+            "text": "February 24th"
+        },
+        "zodiac": "Pisces",
+        "data_url": "https://nookipedia.com/wiki/Anicotti"
+    },
+    {
+        "name": "Ankha",
+        "species": "Cat",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 9,
+            "day": 22,
+            "text": "September 22nd"
+        },
+        "zodiac": "Virgo",
+        "data_url": "https://nookipedia.com/wiki/Ankha"
+    },
+    {
+        "name": "Annalisa",
+        "species": "Anteater",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 2,
+            "day": 6,
+            "text": "February 6"
+        },
+        "zodiac": "Aquarius",
+        "data_url": "https://nookipedia.com/wiki/Annalisa"
+    },
+    {
+        "name": "Annalise",
+        "species": "Horse",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 12,
+            "day": 2,
+            "text": "December 2nd"
+        },
+        "zodiac": "Sagittarius",
+        "data_url": "https://nookipedia.com/wiki/Annalise"
+    },
+    {
+        "name": "Antonio",
+        "species": "Anteater",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 10,
+            "day": 20,
+            "text": "October 20"
+        },
+        "zodiac": "Libra",
+        "data_url": "https://nookipedia.com/wiki/Antonio"
+    },
+    {
+        "name": "Apollo",
+        "species": "Eagle",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 7,
+            "day": 4,
+            "text": "July 4th"
+        },
+        "zodiac": "Cancer",
+        "data_url": "https://nookipedia.com/wiki/Apollo"
+    },
+    {
+        "name": "Apple",
+        "species": "Hamster",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 9,
+            "day": 24,
+            "text": "September 24th"
+        },
+        "zodiac": "Libra",
+        "data_url": "https://nookipedia.com/wiki/Apple"
+    },
+    {
+        "name": "Astrid",
+        "species": "Kangaroo",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 9,
+            "day": 8,
+            "text": "September 8th"
+        },
+        "zodiac": "Virgo",
+        "data_url": "https://nookipedia.com/wiki/Astrid"
+    },
+    {
+        "name": "Audie",
+        "species": "Wolf",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 8,
+            "day": 31,
+            "text": "August 31st"
+        },
+        "zodiac": "Virgo",
+        "data_url": "https://nookipedia.com/wiki/Audie"
+    },
+    {
+        "name": "Aurora",
+        "species": "Penguin",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 1,
+            "day": 27,
+            "text": "January 27th"
+        },
+        "zodiac": "Aquarius",
+        "data_url": "https://nookipedia.com/wiki/Aurora"
+    },
+    {
+        "name": "Ava",
+        "species": "Chicken",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 4,
+            "day": 28,
+            "text": "April 28th"
+        },
+        "zodiac": "Taurus",
+        "data_url": "https://nookipedia.com/wiki/Ava"
+    },
+    {
+        "name": "Avery",
+        "species": "Eagle",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 2,
+            "day": 22,
+            "text": "February 22nd"
+        },
+        "zodiac": "Pisces",
+        "data_url": "https://nookipedia.com/wiki/Avery"
+    },
+    {
+        "name": "Axel",
+        "species": "Elephant",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 3,
+            "day": 23,
+            "text": "March 23rd"
+        },
+        "zodiac": "Aries",
+        "data_url": "https://nookipedia.com/wiki/Axel"
+    },
+    {
+        "name": "Baabara",
+        "species": "Sheep",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 3,
+            "day": 28,
+            "text": "March 28th"
+        },
+        "zodiac": "Aries",
+        "data_url": "https://nookipedia.com/wiki/Baabara"
+    },
+    {
+        "name": "Bam",
+        "species": "Deer",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 11,
+            "day": 7,
+            "text": "November 7th"
+        },
+        "zodiac": "Scorpio",
+        "data_url": "https://nookipedia.com/wiki/Bam"
+    },
+    {
+        "name": "Bangle",
+        "species": "Tiger",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 8,
+            "day": 27,
+            "text": "August 27th"
+        },
+        "zodiac": "Virgo",
+        "data_url": "https://nookipedia.com/wiki/Bangle"
+    },
+    {
+        "name": "Barold",
+        "species": "Cub",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 3,
+            "day": 2,
+            "text": "March 2nd"
+        },
+        "zodiac": "Pisces",
+        "data_url": "https://nookipedia.com/wiki/Barold"
+    },
+    {
+        "name": "Bea",
+        "species": "Dog",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 10,
+            "day": 15,
+            "text": "October 15th"
+        },
+        "zodiac": "Libra",
+        "data_url": "https://nookipedia.com/wiki/Bea"
+    },
+    {
+        "name": "Beardo",
+        "species": "Bear",
+        "personality": "Smug",
+        "gender": "Male",
+        "birthday": {
+            "month": 9,
+            "day": 27,
+            "text": "September 27"
+        },
+        "zodiac": "Libra",
+        "data_url": "https://nookipedia.com/wiki/Beardo"
+    },
+    {
+        "name": "Beau",
+        "species": "Deer",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 4,
+            "day": 5,
+            "text": "April 5th"
+        },
+        "zodiac": "Aries",
+        "data_url": "https://nookipedia.com/wiki/Beau"
+    },
+    {
+        "name": "Becky",
+        "species": "Chicken",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 12,
+            "day": 9,
+            "text": "December 9th"
+        },
+        "zodiac": "Sagittarius",
+        "data_url": "https://nookipedia.com/wiki/Becky"
+    },
+    {
+        "name": "Bella",
+        "species": "Mouse",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 12,
+            "day": 28,
+            "text": "December 28th"
+        },
+        "zodiac": "Capricorn",
+        "data_url": "https://nookipedia.com/wiki/Bella"
+    },
+    {
+        "name": "Benedict",
+        "species": "Chicken",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 10,
+            "day": 10,
+            "text": "October 10th"
+        },
+        "zodiac": "Libra",
+        "data_url": "https://nookipedia.com/wiki/Benedict"
+    },
+    {
+        "name": "Benjamin",
+        "species": "Dog",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 8,
+            "day": 3,
+            "text": "August 3rd"
+        },
+        "zodiac": "Leo",
+        "data_url": "https://nookipedia.com/wiki/Benjamin"
+    },
+    {
+        "name": "Bertha",
+        "species": "Hippo",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 4,
+            "day": 25,
+            "text": "April 25"
+        },
+        "zodiac": "Taurus",
+        "data_url": "https://nookipedia.com/wiki/Bertha"
+    },
+    {
+        "name": "Bettina",
+        "species": "Mouse",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 6,
+            "day": 12,
+            "text": "June 12th"
+        },
+        "zodiac": "Gemini",
+        "data_url": "https://nookipedia.com/wiki/Bettina"
+    },
+    {
+        "name": "Bianca",
+        "species": "Tiger",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 12,
+            "day": 13,
+            "text": "December 13th"
+        },
+        "zodiac": "Sagittarius",
+        "data_url": "https://nookipedia.com/wiki/Bianca"
+    },
+    {
+        "name": "Biff",
+        "species": "Hippo",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 3,
+            "day": 29,
+            "text": "March 29th"
+        },
+        "zodiac": "Aries",
+        "data_url": "https://nookipedia.com/wiki/Biff"
+    },
+    {
+        "name": "Big Top",
+        "species": "Elephant",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 10,
+            "day": 3,
+            "text": "October 3rd"
+        },
+        "zodiac": "Libra",
+        "data_url": "https://nookipedia.com/wiki/Big_Top"
+    },
+    {
+        "name": "Bill",
+        "species": "Duck",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 2,
+            "day": 1,
+            "text": "February 1st"
+        },
+        "zodiac": "Aquarius",
+        "data_url": "https://nookipedia.com/wiki/Bill"
+    },
+    {
+        "name": "Billy",
+        "species": "Goat",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 3,
+            "day": 25,
+            "text": "March 25th"
+        },
+        "zodiac": "Aries",
+        "data_url": "https://nookipedia.com/wiki/Billy"
+    },
+    {
+        "name": "Biskit",
+        "species": "Dog",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 5,
+            "day": 13,
+            "text": "May 13th"
+        },
+        "zodiac": "Taurus",
+        "data_url": "https://nookipedia.com/wiki/Biskit"
+    },
+    {
+        "name": "Bitty",
+        "species": "Hippo",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 10,
+            "day": 6,
+            "text": "October 6th"
+        },
+        "zodiac": "Libra",
+        "data_url": "https://nookipedia.com/wiki/Bitty"
+    },
+    {
+        "name": "Blaire",
+        "species": "Squirrel",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 7,
+            "day": 3,
+            "text": "July 3rd"
+        },
+        "zodiac": "Cancer",
+        "data_url": "https://nookipedia.com/wiki/Blaire"
+    },
+    {
+        "name": "Blanche",
+        "species": "Ostrich",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 12,
+            "day": 21,
+            "text": "December 21st"
+        },
+        "zodiac": "Sagittarius",
+        "data_url": "https://nookipedia.com/wiki/Blanche"
+    },
+    {
+        "name": "Bluebear",
+        "species": "Cub",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 6,
+            "day": 24,
+            "text": "June 24th"
+        },
+        "zodiac": "Cancer",
+        "data_url": "https://nookipedia.com/wiki/Bluebear"
+    },
+    {
+        "name": "Bob",
+        "species": "Cat",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 1,
+            "day": 1,
+            "text": "January 1st"
+        },
+        "zodiac": "Capricorn",
+        "data_url": "https://nookipedia.com/wiki/Bob"
+    },
+    {
+        "name": "Bonbon",
+        "species": "Rabbit",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 3,
+            "day": 3,
+            "text": "March 3rd"
+        },
+        "zodiac": "Pisces",
+        "data_url": "https://nookipedia.com/wiki/Bonbon"
+    },
+    {
+        "name": "Bones",
+        "species": "Dog",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 8,
+            "day": 4,
+            "text": "August 4th"
+        },
+        "zodiac": "Leo",
+        "data_url": "https://nookipedia.com/wiki/Bones"
+    },
+    {
+        "name": "Boomer",
+        "species": "Penguin",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 2,
+            "day": 7,
+            "text": "February 7th"
+        },
+        "zodiac": "Aquarius",
+        "data_url": "https://nookipedia.com/wiki/Boomer"
+    },
+    {
+        "name": "Boone",
+        "species": "Gorilla",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 9,
+            "day": 12,
+            "text": "September 12th"
+        },
+        "zodiac": "Virgo",
+        "data_url": "https://nookipedia.com/wiki/Boone"
+    },
+    {
+        "name": "Boots",
+        "species": "Alligator",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 8,
+            "day": 7,
+            "text": "August 7th"
+        },
+        "zodiac": "Leo",
+        "data_url": "https://nookipedia.com/wiki/Boots"
+    },
+    {
+        "name": "Boris",
+        "species": "Pig",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 11,
+            "day": 6,
+            "text": "November 6th"
+        },
+        "zodiac": "Scorpio",
+        "data_url": "https://nookipedia.com/wiki/Boris"
+    },
+    {
+        "name": "Boyd",
+        "species": "Gorilla",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 10,
+            "day": 1,
+            "text": "October 1st"
+        },
+        "zodiac": "Libra",
+        "data_url": "https://nookipedia.com/wiki/Boyd"
+    },
+    {
+        "name": "Bree",
+        "species": "Mouse",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 7,
+            "day": 7,
+            "text": "July 7th"
+        },
+        "zodiac": "Cancer",
+        "data_url": "https://nookipedia.com/wiki/Bree"
+    },
+    {
+        "name": "Broccolo",
+        "species": "Mouse",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 6,
+            "day": 30,
+            "text": "June 30th"
+        },
+        "zodiac": "Cancer",
+        "data_url": "https://nookipedia.com/wiki/Broccolo"
+    },
+    {
+        "name": "Broffina",
+        "species": "Chicken",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 10,
+            "day": 24,
+            "text": "October 24th"
+        },
+        "zodiac": "Scorpio",
+        "data_url": "https://nookipedia.com/wiki/Broffina"
+    },
+    {
+        "name": "Bruce",
+        "species": "Deer",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 5,
+            "day": 26,
+            "text": "May 26th"
+        },
+        "zodiac": "Gemini",
+        "data_url": "https://nookipedia.com/wiki/Bruce"
+    },
+    {
+        "name": "Bubbles",
+        "species": "Hippo",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 9,
+            "day": 18,
+            "text": "September 18th"
+        },
+        "zodiac": "Virgo",
+        "data_url": "https://nookipedia.com/wiki/Bubbles"
+    },
+    {
+        "name": "Buck",
+        "species": "Horse",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 4,
+            "day": 4,
+            "text": "April 4th"
+        },
+        "zodiac": "Aries",
+        "data_url": "https://nookipedia.com/wiki/Buck"
+    },
+    {
+        "name": "Bud",
+        "species": "Lion",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 8,
+            "day": 8,
+            "text": "August 8th"
+        },
+        "zodiac": "Leo",
+        "data_url": "https://nookipedia.com/wiki/Bud"
+    },
+    {
+        "name": "Bunnie",
+        "species": "Rabbit",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 5,
+            "day": 9,
+            "text": "May 9th"
+        },
+        "zodiac": "Taurus",
+        "data_url": "https://nookipedia.com/wiki/Bunnie"
+    },
+    {
+        "name": "Butch",
+        "species": "Dog",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 11,
+            "day": 1,
+            "text": "November 1st"
+        },
+        "zodiac": "Scorpio",
+        "data_url": "https://nookipedia.com/wiki/Butch"
+    },
+    {
+        "name": "Buzz",
+        "species": "Eagle",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 12,
+            "day": 7,
+            "text": "December 7th"
+        },
+        "zodiac": "Sagittarius",
+        "data_url": "https://nookipedia.com/wiki/Buzz"
+    },
+    {
+        "name": "Cally",
+        "species": "Squirrel",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 9,
+            "day": 4,
+            "text": "September 4th"
+        },
+        "zodiac": "Virgo",
+        "data_url": "https://nookipedia.com/wiki/Cally"
+    },
+    {
+        "name": "Camofrog",
+        "species": "Frog",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 6,
+            "day": 5,
+            "text": "June 5th"
+        },
+        "zodiac": "Gemini",
+        "data_url": "https://nookipedia.com/wiki/Camofrog"
+    },
+    {
+        "name": "Canberra",
+        "species": "Koala",
+        "personality": "Sisterly (Uchi)",
+        "gender": "Female",
+        "birthday": {
+            "month": 5,
+            "day": 14,
+            "text": "May 14th"
+        },
+        "zodiac": "Taurus",
+        "data_url": "https://nookipedia.com/wiki/Canberra"
+    },
+    {
+        "name": "Candi",
+        "species": "Mouse",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 4,
+            "day": 13,
+            "text": "April 13th"
+        },
+        "zodiac": "Aries",
+        "data_url": "https://nookipedia.com/wiki/Candi"
+    },
+    {
+        "name": "Carmen (rabbit)",
+        "species": "Rabbit",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 1,
+            "day": 6,
+            "text": "January 6th"
+        },
+        "zodiac": "Capricorn",
+        "data_url": "https://nookipedia.com/wiki/Carmen_(rabbit)"
+    },
+    {
+        "name": "Caroline",
+        "species": "Squirrel",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 7,
+            "day": 15,
+            "text": "July 15th"
+        },
+        "zodiac": "Cancer",
+        "data_url": "https://nookipedia.com/wiki/Caroline"
+    },
+    {
+        "name": "Carrie",
+        "species": "Kangaroo",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 12,
+            "day": 5,
+            "text": "December 5th"
+        },
+        "zodiac": "Sagittarius",
+        "data_url": "https://nookipedia.com/wiki/Carrie"
+    },
+    {
+        "name": "Cashmere",
+        "species": "Sheep",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 4,
+            "day": 2,
+            "text": "April 2nd"
+        },
+        "zodiac": "Aries",
+        "data_url": "https://nookipedia.com/wiki/Cashmere"
+    },
+    {
+        "name": "Celia",
+        "species": "Eagle",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 3,
+            "day": 25,
+            "text": "March 25th"
+        },
+        "zodiac": "Aries",
+        "data_url": "https://nookipedia.com/wiki/Celia"
+    },
+    {
+        "name": "Cesar",
+        "species": "Gorilla",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 9,
+            "day": 6,
+            "text": "September 6th"
+        },
+        "zodiac": "Virgo",
+        "data_url": "https://nookipedia.com/wiki/Cesar"
+    },
+    {
+        "name": "Chadder",
+        "species": "Mouse",
+        "personality": "Smug",
+        "gender": "Male",
+        "birthday": {
+            "month": 12,
+            "day": 15,
+            "text": "December 15th"
+        },
+        "zodiac": "Sagittarius",
+        "data_url": "https://nookipedia.com/wiki/Chadder"
+    },
+    {
+        "name": "Chai",
+        "species": "elephant",
+        "personality": "peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 3,
+            "day": 6,
+            "text": "March 6th"
+        },
+        "zodiac": "Pisces",
+        "data_url": "https://nookipedia.com/wiki/Chai"
+    },
+    {
+        "name": "Charlise",
+        "species": "Bear",
+        "personality": "Peppy*Sisterly (Uchi)*",
+        "gender": "Female",
+        "birthday": {
+            "month": 4,
+            "day": 17,
+            "text": "April 17"
+        },
+        "zodiac": "Aries",
+        "data_url": "https://nookipedia.com/wiki/Charlise"
+    },
+    {
+        "name": "Chelsea",
+        "species": "Deer",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 1,
+            "day": 18,
+            "text": "January 18th"
+        },
+        "zodiac": "Aquarius",
+        "data_url": "https://nookipedia.com/wiki/Chelsea"
+    },
+    {
+        "name": "Cheri",
+        "species": "Cub",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 3,
+            "day": 17,
+            "text": "March 17th"
+        },
+        "zodiac": "Pisces",
+        "data_url": "https://nookipedia.com/wiki/Cheri"
+    },
+    {
+        "name": "Cherry",
+        "species": "Dog",
+        "personality": "Sisterly (Uchi)",
+        "gender": "Female",
+        "birthday": {
+            "month": 5,
+            "day": 11,
+            "text": "May 11th"
+        },
+        "zodiac": "Taurus",
+        "data_url": "https://nookipedia.com/wiki/Cherry"
+    },
+    {
+        "name": "Chester",
+        "species": "Cub",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 8,
+            "day": 6,
+            "text": "August 6th"
+        },
+        "zodiac": "Leo",
+        "data_url": "https://nookipedia.com/wiki/Chester"
+    },
+    {
+        "name": "Chevre",
+        "species": "Goat",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 3,
+            "day": 6,
+            "text": "March 6th"
+        },
+        "zodiac": "Pisces",
+        "data_url": "https://nookipedia.com/wiki/Chevre"
+    },
+    {
+        "name": "Chief",
+        "species": "Wolf",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 12,
+            "day": 19,
+            "text": "December 19th"
+        },
+        "zodiac": "Sagittarius",
+        "data_url": "https://nookipedia.com/wiki/Chief"
+    },
+    {
+        "name": "Chops",
+        "species": "Pig",
+        "personality": "Smug",
+        "gender": "Male",
+        "birthday": {
+            "month": 10,
+            "day": 13,
+            "text": "October 13th"
+        },
+        "zodiac": "Libra",
+        "data_url": "https://nookipedia.com/wiki/Chops"
+    },
+    {
+        "name": "Chow",
+        "species": "Bear",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 7,
+            "day": 22,
+            "text": "July 22"
+        },
+        "zodiac": "Leo",
+        "data_url": "https://nookipedia.com/wiki/Chow"
+    },
+    {
+        "name": "Chrissy",
+        "species": "Rabbit",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 8,
+            "day": 28,
+            "text": "August 28th"
+        },
+        "zodiac": "Virgo",
+        "data_url": "https://nookipedia.com/wiki/Chrissy"
+    },
+    {
+        "name": "Claude",
+        "species": "Rabbit",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 12,
+            "day": 3,
+            "text": "December 3rd"
+        },
+        "zodiac": "Sagittarius",
+        "data_url": "https://nookipedia.com/wiki/Claude"
+    },
+    {
+        "name": "Claudia",
+        "species": "Tiger",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 11,
+            "day": 22,
+            "text": "November 22nd"
+        },
+        "zodiac": "Scorpio",
+        "data_url": "https://nookipedia.com/wiki/Claudia"
+    },
+    {
+        "name": "Clay",
+        "species": "Hamster",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 10,
+            "day": 19,
+            "text": "October 19th"
+        },
+        "zodiac": "Libra",
+        "data_url": "https://nookipedia.com/wiki/Clay"
+    },
+    {
+        "name": "Cleo",
+        "species": "Horse",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 2,
+            "day": 9,
+            "text": "February 9th"
+        },
+        "zodiac": "Aquarius",
+        "data_url": "https://nookipedia.com/wiki/Cleo"
+    },
+    {
+        "name": "Clyde",
+        "species": "Horse",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 5,
+            "day": 1,
+            "text": "May 1st"
+        },
+        "zodiac": "Taurus",
+        "data_url": "https://nookipedia.com/wiki/Clyde"
+    },
+    {
+        "name": "Coach",
+        "species": "Bull",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 4,
+            "day": 29,
+            "text": "April 29th"
+        },
+        "zodiac": "Taurus",
+        "data_url": "https://nookipedia.com/wiki/Coach"
+    },
+    {
+        "name": "Cobb",
+        "species": "Pig",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 10,
+            "day": 7,
+            "text": "October 7th"
+        },
+        "zodiac": "Libra",
+        "data_url": "https://nookipedia.com/wiki/Cobb"
+    },
+    {
+        "name": "Coco",
+        "species": "Rabbit",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 3,
+            "day": 1,
+            "text": "March 1st"
+        },
+        "zodiac": "Pisces",
+        "data_url": "https://nookipedia.com/wiki/Coco"
+    },
+    {
+        "name": "Cole",
+        "species": "Rabbit",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 8,
+            "day": 10,
+            "text": "August 10th"
+        },
+        "zodiac": "Leo",
+        "data_url": "https://nookipedia.com/wiki/Cole"
+    },
+    {
+        "name": "Colton",
+        "species": "Horse",
+        "personality": "Smug",
+        "gender": "Male",
+        "birthday": {
+            "month": 5,
+            "day": 22,
+            "text": "May 22nd"
+        },
+        "zodiac": "Gemini",
+        "data_url": "https://nookipedia.com/wiki/Colton"
+    },
+    {
+        "name": "Cookie",
+        "species": "Dog",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 6,
+            "day": 18,
+            "text": "June 18th"
+        },
+        "zodiac": "Gemini",
+        "data_url": "https://nookipedia.com/wiki/Cookie"
+    },
+    {
+        "name": "Cousteau",
+        "species": "Frog",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 12,
+            "day": 17,
+            "text": "December 17th"
+        },
+        "zodiac": "Sagittarius",
+        "data_url": "https://nookipedia.com/wiki/Cousteau"
+    },
+    {
+        "name": "Cranston",
+        "species": "Ostrich",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 9,
+            "day": 23,
+            "text": "September 23rd"
+        },
+        "zodiac": "Libra",
+        "data_url": "https://nookipedia.com/wiki/Cranston"
+    },
+    {
+        "name": "Croque",
+        "species": "Frog",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 7,
+            "day": 18,
+            "text": "July 18th"
+        },
+        "zodiac": "Cancer",
+        "data_url": "https://nookipedia.com/wiki/Croque"
+    },
+    {
+        "name": "Cube",
+        "species": "Penguin",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 1,
+            "day": 29,
+            "text": "January 29th"
+        },
+        "zodiac": "Aquarius",
+        "data_url": "https://nookipedia.com/wiki/Cube"
+    },
+    {
+        "name": "Curlos",
+        "species": "Sheep",
+        "personality": "Cranky  (Animal Forest e+)Smug (New Leaf)",
+        "gender": "Male",
+        "birthday": {
+            "month": 5,
+            "day": 8,
+            "text": "May 8th"
+        },
+        "zodiac": "Taurus",
+        "data_url": "https://nookipedia.com/wiki/Curlos"
+    },
+    {
+        "name": "Curly",
+        "species": "Pig",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 7,
+            "day": 26,
+            "text": "July 26th"
+        },
+        "zodiac": "Leo",
+        "data_url": "https://nookipedia.com/wiki/Curly"
+    },
+    {
+        "name": "Curt",
+        "species": "Bear",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 7,
+            "day": 1,
+            "text": "July 1"
+        },
+        "zodiac": "Cancer",
+        "data_url": "https://nookipedia.com/wiki/Curt"
+    },
+    {
+        "name": "Cyd",
+        "species": "Elephant",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 6,
+            "day": 9,
+            "text": "June 9th"
+        },
+        "zodiac": "Gemini",
+        "data_url": "https://nookipedia.com/wiki/Cyd"
+    },
+    {
+        "name": "Cyrano",
+        "species": "Anteater",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 3,
+            "day": 9,
+            "text": "March 9"
+        },
+        "zodiac": "Pisces",
+        "data_url": "https://nookipedia.com/wiki/Cyrano"
+    },
+    {
+        "name": "Daisy",
+        "species": "Dog",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 11,
+            "day": 16,
+            "text": "November 16th"
+        },
+        "zodiac": "Scorpio",
+        "data_url": "https://nookipedia.com/wiki/Daisy"
+    },
+    {
+        "name": "Deena",
+        "species": "Duck",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 6,
+            "day": 27,
+            "text": "June 27th"
+        },
+        "zodiac": "Cancer",
+        "data_url": "https://nookipedia.com/wiki/Deena"
+    },
+    {
+        "name": "Deirdre",
+        "species": "Deer",
+        "personality": "Sisterly (Uchi)",
+        "gender": "Female",
+        "birthday": {
+            "month": 5,
+            "day": 4,
+            "text": "May 4th"
+        },
+        "zodiac": "Taurus",
+        "data_url": "https://nookipedia.com/wiki/Deirdre"
+    },
+    {
+        "name": "Del",
+        "species": "Alligator",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 5,
+            "day": 27,
+            "text": "May 27th"
+        },
+        "zodiac": "Gemini",
+        "data_url": "https://nookipedia.com/wiki/Del"
+    },
+    {
+        "name": "Deli",
+        "species": "Monkey",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 5,
+            "day": 24,
+            "text": "May 24th"
+        },
+        "zodiac": "Gemini",
+        "data_url": "https://nookipedia.com/wiki/Deli"
+    },
+    {
+        "name": "Derwin",
+        "species": "Duck",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 5,
+            "day": 25,
+            "text": "May 25th"
+        },
+        "zodiac": "Gemini",
+        "data_url": "https://nookipedia.com/wiki/Derwin"
+    },
+    {
+        "name": "Diana",
+        "species": "Deer",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 1,
+            "day": 4,
+            "text": "January 4th"
+        },
+        "zodiac": "Capricorn",
+        "data_url": "https://nookipedia.com/wiki/Diana"
+    },
+    {
+        "name": "Diva",
+        "species": "Frog",
+        "personality": "Sisterly (Uchi)",
+        "gender": "Female",
+        "birthday": {
+            "month": 10,
+            "day": 2,
+            "text": "October 2nd"
+        },
+        "zodiac": "Libra",
+        "data_url": "https://nookipedia.com/wiki/Diva"
+    },
+    {
+        "name": "Dizzy",
+        "species": "Elephant",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 7,
+            "day": 14,
+            "text": "July 14th"
+        },
+        "zodiac": "Cancer",
+        "data_url": "https://nookipedia.com/wiki/Dizzy"
+    },
+    {
+        "name": "Dobie",
+        "species": "Wolf",
+        "personality": "Lazy (Animal Crossing)Cranky (New Leaf)",
+        "gender": "Male",
+        "birthday": {
+            "month": 2,
+            "day": 17,
+            "text": "February 17th"
+        },
+        "zodiac": "Aquarius",
+        "data_url": "https://nookipedia.com/wiki/Dobie"
+    },
+    {
+        "name": "Doc",
+        "species": "Rabbit",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 3,
+            "day": 16,
+            "text": "March 16th"
+        },
+        "zodiac": "Pisces",
+        "data_url": "https://nookipedia.com/wiki/Doc"
+    },
+    {
+        "name": "Dom",
+        "species": "Sheep",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 3,
+            "day": 18,
+            "text": "March 18"
+        },
+        "zodiac": "Pisces",
+        "data_url": "https://nookipedia.com/wiki/Dom"
+    },
+    {
+        "name": "Dora",
+        "species": "Mouse",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 2,
+            "day": 18,
+            "text": "February 18th"
+        },
+        "zodiac": "Aquarius",
+        "data_url": "https://nookipedia.com/wiki/Dora"
+    },
+    {
+        "name": "Dotty",
+        "species": "Rabbit",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 3,
+            "day": 14,
+            "text": "March 14th"
+        },
+        "zodiac": "Pisces",
+        "data_url": "https://nookipedia.com/wiki/Dotty"
+    },
+    {
+        "name": "Drago",
+        "species": "Alligator",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 2,
+            "day": 12,
+            "text": "February 12th"
+        },
+        "zodiac": "Aquarius",
+        "data_url": "https://nookipedia.com/wiki/Drago"
+    },
+    {
+        "name": "Drake",
+        "species": "Duck",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 6,
+            "day": 25,
+            "text": "June 25th"
+        },
+        "zodiac": "Cancer",
+        "data_url": "https://nookipedia.com/wiki/Drake"
+    },
+    {
+        "name": "Drift",
+        "species": "Frog",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 10,
+            "day": 9,
+            "text": "October 9th"
+        },
+        "zodiac": "Libra",
+        "data_url": "https://nookipedia.com/wiki/Drift"
+    },
+    {
+        "name": "Ed",
+        "species": "Horse",
+        "personality": "Jock (Animal Crossing, City Folk)Smug (New Leaf onwards)",
+        "gender": "Male",
+        "birthday": {
+            "month": 9,
+            "day": 16,
+            "text": "September 16th"
+        },
+        "zodiac": "Virgo",
+        "data_url": "https://nookipedia.com/wiki/Ed"
+    },
+    {
+        "name": "Egbert",
+        "species": "Chicken",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 10,
+            "day": 14,
+            "text": "October 14th"
+        },
+        "zodiac": "Libra",
+        "data_url": "https://nookipedia.com/wiki/Egbert"
+    },
+    {
+        "name": "Elise",
+        "species": "Monkey",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 3,
+            "day": 21,
+            "text": "March 21st"
+        },
+        "zodiac": "Aries",
+        "data_url": "https://nookipedia.com/wiki/Elise"
+    },
+    {
+        "name": "Ellie",
+        "species": "Elephant",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 5,
+            "day": 12,
+            "text": "May 12th"
+        },
+        "zodiac": "Taurus",
+        "data_url": "https://nookipedia.com/wiki/Ellie"
+    },
+    {
+        "name": "Elmer",
+        "species": "Horse",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 10,
+            "day": 5,
+            "text": "October 5th"
+        },
+        "zodiac": "Libra",
+        "data_url": "https://nookipedia.com/wiki/Elmer"
+    },
+    {
+        "name": "Eloise",
+        "species": "Elephant",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 12,
+            "day": 8,
+            "text": "December 8th"
+        },
+        "zodiac": "Sagittarius",
+        "data_url": "https://nookipedia.com/wiki/Eloise"
+    },
+    {
+        "name": "Elvis",
+        "species": "Lion",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 7,
+            "day": 23,
+            "text": "July 23rd"
+        },
+        "zodiac": "Leo",
+        "data_url": "https://nookipedia.com/wiki/Elvis"
+    },
+    {
+        "name": "Erik",
+        "species": "Deer",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 7,
+            "day": 27,
+            "text": "July 27th"
+        },
+        "zodiac": "Leo",
+        "data_url": "https://nookipedia.com/wiki/Erik"
+    },
+    {
+        "name": "Eugene",
+        "species": "Koala",
+        "personality": "Smug",
+        "gender": "Male",
+        "birthday": {
+            "month": 10,
+            "day": 26,
+            "text": "October 26th"
+        },
+        "zodiac": "Scorpio",
+        "data_url": "https://nookipedia.com/wiki/Eugene"
+    },
+    {
+        "name": "Eunice",
+        "species": "Sheep",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 4,
+            "day": 3,
+            "text": "April 3rd"
+        },
+        "zodiac": "Aries",
+        "data_url": "https://nookipedia.com/wiki/Eunice"
+    },
+    {
+        "name": "Fang",
+        "species": "Wolf",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 12,
+            "day": 18,
+            "text": "December 18th"
+        },
+        "zodiac": "Sagittarius",
+        "data_url": "https://nookipedia.com/wiki/Fang"
+    },
+    {
+        "name": "Fauna",
+        "species": "Deer",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 3,
+            "day": 26,
+            "text": "March 26th"
+        },
+        "zodiac": "Aries",
+        "data_url": "https://nookipedia.com/wiki/Fauna"
+    },
+    {
+        "name": "Felicity",
+        "species": "Cat",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 3,
+            "day": 30,
+            "text": "March 30th"
+        },
+        "zodiac": "Aries",
+        "data_url": "https://nookipedia.com/wiki/Felicity"
+    },
+    {
+        "name": "Filbert",
+        "species": "Squirrel",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 6,
+            "day": 3,
+            "text": "June 3rd"
+        },
+        "zodiac": "Gemini",
+        "data_url": "https://nookipedia.com/wiki/Filbert"
+    },
+    {
+        "name": "Flip",
+        "species": "Monkey",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 11,
+            "day": 21,
+            "text": "November 21st"
+        },
+        "zodiac": "Sagittarius",
+        "data_url": "https://nookipedia.com/wiki/Flip"
+    },
+    {
+        "name": "Flo",
+        "species": "Penguin",
+        "personality": "Sisterly (Uchi)",
+        "gender": "Female",
+        "birthday": {
+            "month": 9,
+            "day": 2,
+            "text": "September 2nd"
+        },
+        "zodiac": "Virgo",
+        "data_url": "https://nookipedia.com/wiki/Flo"
+    },
+    {
+        "name": "Flora (villager)",
+        "species": "Ostrich",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 2,
+            "day": 9,
+            "text": "February 9th"
+        },
+        "zodiac": "Aquarius",
+        "data_url": "https://nookipedia.com/wiki/Flora_(villager)"
+    },
+    {
+        "name": "Flurry",
+        "species": "Hamster",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 1,
+            "day": 30,
+            "text": "January 30th"
+        },
+        "zodiac": "Aquarius",
+        "data_url": "https://nookipedia.com/wiki/Flurry"
+    },
+    {
+        "name": "Francine",
+        "species": "Rabbit",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 1,
+            "day": 22,
+            "text": "January 22nd"
+        },
+        "zodiac": "Aquarius",
+        "data_url": "https://nookipedia.com/wiki/Francine"
+    },
+    {
+        "name": "Frank",
+        "species": "Eagle",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 7,
+            "day": 30,
+            "text": "July 30th"
+        },
+        "zodiac": "Cancer",
+        "data_url": "https://nookipedia.com/wiki/Frank"
+    },
+    {
+        "name": "Freckles",
+        "species": "Duck",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 2,
+            "day": 19,
+            "text": "February 19th"
+        },
+        "zodiac": "Aquarius",
+        "data_url": "https://nookipedia.com/wiki/Freckles"
+    },
+    {
+        "name": "Freya",
+        "species": "Wolf",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 12,
+            "day": 14,
+            "text": "December 14th"
+        },
+        "zodiac": "Sagittarius",
+        "data_url": "https://nookipedia.com/wiki/Freya"
+    },
+    {
+        "name": "Friga",
+        "species": "Penguin",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 10,
+            "day": 16,
+            "text": "October 16th"
+        },
+        "zodiac": "Libra",
+        "data_url": "https://nookipedia.com/wiki/Friga"
+    },
+    {
+        "name": "Frita",
+        "species": "Sheep",
+        "personality": "Sisterly (Uchi)",
+        "gender": "Female",
+        "birthday": {
+            "month": 7,
+            "day": 16,
+            "text": "July 16th"
+        },
+        "zodiac": "Cancer",
+        "data_url": "https://nookipedia.com/wiki/Frita"
+    },
+    {
+        "name": "Frobert",
+        "species": "Frog",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 2,
+            "day": 8,
+            "text": "February 8th"
+        },
+        "zodiac": "Aquarius",
+        "data_url": "https://nookipedia.com/wiki/Frobert"
+    },
+    {
+        "name": "Fuchsia",
+        "species": "Deer",
+        "personality": "Sisterly (Uchi)",
+        "gender": "Female",
+        "birthday": {
+            "month": 9,
+            "day": 19,
+            "text": "September 19th"
+        },
+        "zodiac": "Virgo",
+        "data_url": "https://nookipedia.com/wiki/Fuchsia"
+    },
+    {
+        "name": "Gabi",
+        "species": "Rabbit",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 12,
+            "day": 16,
+            "text": "December 16th"
+        },
+        "zodiac": "Sagittarius",
+        "data_url": "https://nookipedia.com/wiki/Gabi"
+    },
+    {
+        "name": "Gala",
+        "species": "Pig",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 3,
+            "day": 5,
+            "text": "March 5th"
+        },
+        "zodiac": "Pisces",
+        "data_url": "https://nookipedia.com/wiki/Gala"
+    },
+    {
+        "name": "Gaston",
+        "species": "Rabbit",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 10,
+            "day": 28,
+            "text": "October 28th"
+        },
+        "zodiac": "Scorpio",
+        "data_url": "https://nookipedia.com/wiki/Gaston"
+    },
+    {
+        "name": "Gayle",
+        "species": "Alligator",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 5,
+            "day": 17,
+            "text": "May 17th"
+        },
+        "zodiac": "Taurus",
+        "data_url": "https://nookipedia.com/wiki/Gayle"
+    },
+    {
+        "name": "Genji",
+        "species": "Rabbit",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 1,
+            "day": 21,
+            "text": "January 21st"
+        },
+        "zodiac": "Aquarius",
+        "data_url": "https://nookipedia.com/wiki/Genji"
+    },
+    {
+        "name": "Gigi",
+        "species": "Frog",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 8,
+            "day": 11,
+            "text": "August 11th"
+        },
+        "zodiac": "Leo",
+        "data_url": "https://nookipedia.com/wiki/Gigi"
+    },
+    {
+        "name": "Gladys",
+        "species": "Ostrich",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 1,
+            "day": 15,
+            "text": "January 15th"
+        },
+        "zodiac": "Capricorn",
+        "data_url": "https://nookipedia.com/wiki/Gladys"
+    },
+    {
+        "name": "Gloria",
+        "species": "Duck",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 8,
+            "day": 12,
+            "text": "August 12th"
+        },
+        "zodiac": "Leo",
+        "data_url": "https://nookipedia.com/wiki/Gloria"
+    },
+    {
+        "name": "Goldie",
+        "species": "Dog",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 12,
+            "day": 27,
+            "text": "December 27th"
+        },
+        "zodiac": "Capricorn",
+        "data_url": "https://nookipedia.com/wiki/Goldie"
+    },
+    {
+        "name": "Gonzo",
+        "species": "Koala",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 10,
+            "day": 13,
+            "text": "October 13th"
+        },
+        "zodiac": "Libra",
+        "data_url": "https://nookipedia.com/wiki/Gonzo"
+    },
+    {
+        "name": "Goose",
+        "species": "Chicken",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 10,
+            "day": 4,
+            "text": "October 4th"
+        },
+        "zodiac": "Libra",
+        "data_url": "https://nookipedia.com/wiki/Goose"
+    },
+    {
+        "name": "Graham",
+        "species": "Hamster",
+        "personality": "Smug",
+        "gender": "Male",
+        "birthday": {
+            "month": 6,
+            "day": 20,
+            "text": "June 20th"
+        },
+        "zodiac": "Gemini",
+        "data_url": "https://nookipedia.com/wiki/Graham"
+    },
+    {
+        "name": "Greta",
+        "species": "Mouse",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 9,
+            "day": 5,
+            "text": "September 5th"
+        },
+        "zodiac": "Virgo",
+        "data_url": "https://nookipedia.com/wiki/Greta"
+    },
+    {
+        "name": "Grizzly",
+        "species": "Bear",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 7,
+            "day": 31,
+            "text": "July 31"
+        },
+        "zodiac": "Leo",
+        "data_url": "https://nookipedia.com/wiki/Grizzly"
+    },
+    {
+        "name": "Groucho",
+        "species": "Bear",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 10,
+            "day": 23,
+            "text": "October 23rd"
+        },
+        "zodiac": "Scorpio",
+        "data_url": "https://nookipedia.com/wiki/Groucho"
+    },
+    {
+        "name": "Gruff",
+        "species": "Goat",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 8,
+            "day": 29,
+            "text": "August 29th"
+        },
+        "zodiac": "Virgo",
+        "data_url": "https://nookipedia.com/wiki/Gruff"
+    },
+    {
+        "name": "Gwen",
+        "species": "Penguin",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 1,
+            "day": 23,
+            "text": "January 23rd"
+        },
+        "zodiac": "Aquarius",
+        "data_url": "https://nookipedia.com/wiki/Gwen"
+    },
+    {
+        "name": "Hamlet",
+        "species": "Hamster",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 5,
+            "day": 30,
+            "text": "May 30th"
+        },
+        "zodiac": "Gemini",
+        "data_url": "https://nookipedia.com/wiki/Hamlet"
+    },
+    {
+        "name": "Hamphrey",
+        "species": "Hamster",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 2,
+            "day": 25,
+            "text": "February 25th"
+        },
+        "zodiac": "Pisces",
+        "data_url": "https://nookipedia.com/wiki/Hamphrey"
+    },
+    {
+        "name": "Hans",
+        "species": "Gorilla",
+        "personality": "Smug",
+        "gender": "Male",
+        "birthday": {
+            "month": 12,
+            "day": 5,
+            "text": "December 5th"
+        },
+        "zodiac": "Sagittarius",
+        "data_url": "https://nookipedia.com/wiki/Hans"
+    },
+    {
+        "name": "Harry",
+        "species": "Hippo",
+        "personality": "Jock (Animal Forest e+)Cranky (City Folk onwards)",
+        "gender": "Male",
+        "birthday": {
+            "month": 1,
+            "day": 7,
+            "text": "January 7th"
+        },
+        "zodiac": "Capricorn",
+        "data_url": "https://nookipedia.com/wiki/Harry"
+    },
+    {
+        "name": "Hazel",
+        "species": "Squirrel",
+        "personality": "Sisterly (Uchi)",
+        "gender": "Female",
+        "birthday": {
+            "month": 8,
+            "day": 30,
+            "text": "August 30th"
+        },
+        "zodiac": "Virgo",
+        "data_url": "https://nookipedia.com/wiki/Hazel"
+    },
+    {
+        "name": "Henry",
+        "species": "Frog",
+        "personality": "Smug",
+        "gender": "Male",
+        "birthday": {
+            "month": 9,
+            "day": 21,
+            "text": "September 21"
+        },
+        "zodiac": "Virgo",
+        "data_url": "https://nookipedia.com/wiki/Henry"
+    },
+    {
+        "name": "Hippeux",
+        "species": "Hippo",
+        "personality": "Smug",
+        "gender": "Male",
+        "birthday": {
+            "month": 10,
+            "day": 15,
+            "text": "October 15th"
+        },
+        "zodiac": "Libra",
+        "data_url": "https://nookipedia.com/wiki/Hippeux"
+    },
+    {
+        "name": "Hopkins",
+        "species": "Rabbit",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 3,
+            "day": 11,
+            "text": "March 11th"
+        },
+        "zodiac": "Pisces",
+        "data_url": "https://nookipedia.com/wiki/Hopkins"
+    },
+    {
+        "name": "Hopper",
+        "species": "Penguin",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 4,
+            "day": 6,
+            "text": "April 6th"
+        },
+        "zodiac": "Aries",
+        "data_url": "https://nookipedia.com/wiki/Hopper"
+    },
+    {
+        "name": "Hornsby",
+        "species": "Rhino",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 3,
+            "day": 20,
+            "text": "March 20th"
+        },
+        "zodiac": "Pisces",
+        "data_url": "https://nookipedia.com/wiki/Hornsby"
+    },
+    {
+        "name": "Huck",
+        "species": "Frog",
+        "personality": "Lazy (Animal Crossing)Smug (New Leaf)",
+        "gender": "Male",
+        "birthday": {
+            "month": 7,
+            "day": 9,
+            "text": "July 9th"
+        },
+        "zodiac": "Cancer",
+        "data_url": "https://nookipedia.com/wiki/Huck"
+    },
+    {
+        "name": "Hugh",
+        "species": "Pig",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 12,
+            "day": 30,
+            "text": "December 30th"
+        },
+        "zodiac": "Capricorn",
+        "data_url": "https://nookipedia.com/wiki/Hugh"
+    },
+    {
+        "name": "Iggly",
+        "species": "Penguin",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 11,
+            "day": 2,
+            "text": "November 2nd"
+        },
+        "zodiac": "Scorpio",
+        "data_url": "https://nookipedia.com/wiki/Iggly"
+    },
+    {
+        "name": "Ike",
+        "species": "Bear",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 5,
+            "day": 16,
+            "text": "May 16th"
+        },
+        "zodiac": "Taurus",
+        "data_url": "https://nookipedia.com/wiki/Ike"
+    },
+    {
+        "name": "Jacob",
+        "species": "Bird",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 8,
+            "day": 24,
+            "text": "August 24th"
+        },
+        "zodiac": "Virgo",
+        "data_url": "https://nookipedia.com/wiki/Jacob"
+    },
+    {
+        "name": "Jacques",
+        "species": "Bird",
+        "personality": "Smug",
+        "gender": "Male",
+        "birthday": {
+            "month": 6,
+            "day": 22,
+            "text": "June 22nd"
+        },
+        "zodiac": "Cancer",
+        "data_url": "https://nookipedia.com/wiki/Jacques"
+    },
+    {
+        "name": "Jambette",
+        "species": "Frog",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 10,
+            "day": 27,
+            "text": "October 27th"
+        },
+        "zodiac": "Scorpio",
+        "data_url": "https://nookipedia.com/wiki/Jambette"
+    },
+    {
+        "name": "Jay",
+        "species": "Bird",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 7,
+            "day": 17,
+            "text": "July 17th"
+        },
+        "zodiac": "Cancer",
+        "data_url": "https://nookipedia.com/wiki/Jay"
+    },
+    {
+        "name": "Jeremiah",
+        "species": "Frog",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 7,
+            "day": 8,
+            "text": "July 8th"
+        },
+        "zodiac": "Cancer",
+        "data_url": "https://nookipedia.com/wiki/Jeremiah"
+    },
+    {
+        "name": "Jitters",
+        "species": "Bird",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 2,
+            "day": 2,
+            "text": "February 2nd"
+        },
+        "zodiac": "Aquarius",
+        "data_url": "https://nookipedia.com/wiki/Jitters"
+    },
+    {
+        "name": "Joey",
+        "species": "Duck",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 1,
+            "day": 3,
+            "text": "January 3rd"
+        },
+        "zodiac": "Capricorn",
+        "data_url": "https://nookipedia.com/wiki/Joey"
+    },
+    {
+        "name": "Judy",
+        "species": "Cub",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 3,
+            "day": 10,
+            "text": "March 10th"
+        },
+        "zodiac": "Pisces",
+        "data_url": "https://nookipedia.com/wiki/Judy"
+    },
+    {
+        "name": "Julia",
+        "species": "Ostrich",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 7,
+            "day": 31,
+            "text": "July 31st"
+        },
+        "zodiac": "Leo",
+        "data_url": "https://nookipedia.com/wiki/Julia"
+    },
+    {
+        "name": "Julian",
+        "species": "Horse",
+        "personality": "Smug",
+        "gender": "Male",
+        "birthday": {
+            "month": 3,
+            "day": 15,
+            "text": "March 15th"
+        },
+        "zodiac": "Pisces",
+        "data_url": "https://nookipedia.com/wiki/Julian"
+    },
+    {
+        "name": "June (villager)",
+        "species": "Cub",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 5,
+            "day": 21,
+            "text": "May 21st"
+        },
+        "zodiac": "Gemini",
+        "data_url": "https://nookipedia.com/wiki/June_(villager)"
+    },
+    {
+        "name": "Kabuki",
+        "species": "Cat",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 11,
+            "day": 29,
+            "text": "November 29th"
+        },
+        "zodiac": "Sagittarius",
+        "data_url": "https://nookipedia.com/wiki/Kabuki"
+    },
+    {
+        "name": "Katt",
+        "species": "Cat",
+        "personality": "Sisterly (Uchi)",
+        "gender": "Female",
+        "birthday": {
+            "month": 4,
+            "day": 27,
+            "text": "April 27th"
+        },
+        "zodiac": "Taurus",
+        "data_url": "https://nookipedia.com/wiki/Katt"
+    },
+    {
+        "name": "Keaton",
+        "species": "Eagle",
+        "personality": "Smug",
+        "gender": "Male",
+        "birthday": {
+            "month": 6,
+            "day": 1,
+            "text": "June 1st"
+        },
+        "zodiac": "Gemini",
+        "data_url": "https://nookipedia.com/wiki/Keaton"
+    },
+    {
+        "name": "Ken",
+        "species": "Chicken",
+        "personality": "Smug",
+        "gender": "Male",
+        "birthday": {
+            "month": 12,
+            "day": 23,
+            "text": "December 23rd"
+        },
+        "zodiac": "Capricorn",
+        "data_url": "https://nookipedia.com/wiki/Ken"
+    },
+    {
+        "name": "Ketchup",
+        "species": "Duck",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 7,
+            "day": 27,
+            "text": "July 27th"
+        },
+        "zodiac": "Leo",
+        "data_url": "https://nookipedia.com/wiki/Ketchup"
+    },
+    {
+        "name": "Kevin",
+        "species": "Pig",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 4,
+            "day": 26,
+            "text": "April 26th"
+        },
+        "zodiac": "Taurus",
+        "data_url": "https://nookipedia.com/wiki/Kevin"
+    },
+    {
+        "name": "Kid Cat",
+        "species": "Cat",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 8,
+            "day": 1,
+            "text": "August 1st"
+        },
+        "zodiac": "Leo",
+        "data_url": "https://nookipedia.com/wiki/Kid_Cat"
+    },
+    {
+        "name": "Kidd",
+        "species": "Goat",
+        "personality": "Lazy*  Smug*",
+        "gender": "Male",
+        "birthday": {
+            "month": 6,
+            "day": 28,
+            "text": "June 28th"
+        },
+        "zodiac": "Cancer",
+        "data_url": "https://nookipedia.com/wiki/Kidd"
+    },
+    {
+        "name": "Kiki",
+        "species": "Cat",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 10,
+            "day": 8,
+            "text": "October 8th"
+        },
+        "zodiac": "Libra",
+        "data_url": "https://nookipedia.com/wiki/Kiki"
+    },
+    {
+        "name": "Kitt",
+        "species": "Kangaroo",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 10,
+            "day": 11,
+            "text": "October 11th"
+        },
+        "zodiac": "Libra",
+        "data_url": "https://nookipedia.com/wiki/Kitt"
+    },
+    {
+        "name": "Kitty",
+        "species": "Cat",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 2,
+            "day": 15,
+            "text": "February 15th"
+        },
+        "zodiac": "Aquarius",
+        "data_url": "https://nookipedia.com/wiki/Kitty"
+    },
+    {
+        "name": "Klaus",
+        "species": "Bear",
+        "personality": "Smug",
+        "gender": "Male",
+        "birthday": {
+            "month": 3,
+            "day": 31,
+            "text": "March 31st"
+        },
+        "zodiac": "Aries",
+        "data_url": "https://nookipedia.com/wiki/Klaus"
+    },
+    {
+        "name": "Knox",
+        "species": "Chicken",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 11,
+            "day": 23,
+            "text": "November 23rd"
+        },
+        "zodiac": "Sagittarius",
+        "data_url": "https://nookipedia.com/wiki/Knox"
+    },
+    {
+        "name": "Kody",
+        "species": "Cub",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 9,
+            "day": 28,
+            "text": "September 28th"
+        },
+        "zodiac": "Libra",
+        "data_url": "https://nookipedia.com/wiki/Kody"
+    },
+    {
+        "name": "Kyle",
+        "species": "Wolf",
+        "personality": "Smug",
+        "gender": "Male",
+        "birthday": {
+            "month": 12,
+            "day": 6,
+            "text": "December 6th"
+        },
+        "zodiac": "Sagittarius",
+        "data_url": "https://nookipedia.com/wiki/Kyle"
+    },
+    {
+        "name": "Leonardo",
+        "species": "Tiger",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 5,
+            "day": 15,
+            "text": "May 15th"
+        },
+        "zodiac": "Taurus",
+        "data_url": "https://nookipedia.com/wiki/Leonardo"
+    },
+    {
+        "name": "Leopold",
+        "species": "Lion",
+        "personality": "Jock (DnM to DnMe+)Smug (New Leaf onwards)",
+        "gender": "Male",
+        "birthday": {
+            "month": 8,
+            "day": 14,
+            "text": "August 14th"
+        },
+        "zodiac": "Leo",
+        "data_url": "https://nookipedia.com/wiki/Leopold"
+    },
+    {
+        "name": "Lily",
+        "species": "Frog",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 2,
+            "day": 4,
+            "text": "February 4th"
+        },
+        "zodiac": "Aquarius",
+        "data_url": "https://nookipedia.com/wiki/Lily"
+    },
+    {
+        "name": "Limberg",
+        "species": "Mouse",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 10,
+            "day": 17,
+            "text": "October 17th"
+        },
+        "zodiac": "Libra",
+        "data_url": "https://nookipedia.com/wiki/Limberg"
+    },
+    {
+        "name": "Lionel",
+        "species": "Lion",
+        "personality": "Smug",
+        "gender": "Male",
+        "birthday": {
+            "month": 7,
+            "day": 29,
+            "text": "July 29th"
+        },
+        "zodiac": "Leo",
+        "data_url": "https://nookipedia.com/wiki/Lionel"
+    },
+    {
+        "name": "Lobo",
+        "species": "Wolf",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 11,
+            "day": 5,
+            "text": "November 5th"
+        },
+        "zodiac": "Scorpio",
+        "data_url": "https://nookipedia.com/wiki/Lobo"
+    },
+    {
+        "name": "Lolly",
+        "species": "Cat",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 3,
+            "day": 27,
+            "text": "March 27th"
+        },
+        "zodiac": "Aries",
+        "data_url": "https://nookipedia.com/wiki/Lolly"
+    },
+    {
+        "name": "Lopez",
+        "species": "Deer",
+        "personality": "Smug",
+        "gender": "Male",
+        "birthday": {
+            "month": 8,
+            "day": 20,
+            "text": "August 20th"
+        },
+        "zodiac": "Leo",
+        "data_url": "https://nookipedia.com/wiki/Lopez"
+    },
+    {
+        "name": "Louie",
+        "species": "Gorilla",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 3,
+            "day": 26,
+            "text": "March 26th"
+        },
+        "zodiac": "Aries",
+        "data_url": "https://nookipedia.com/wiki/Louie"
+    },
+    {
+        "name": "Lucha",
+        "species": "Bird",
+        "personality": "Smug",
+        "gender": "Male",
+        "birthday": {
+            "month": 12,
+            "day": 12,
+            "text": "December 12th"
+        },
+        "zodiac": "Sagittarius",
+        "data_url": "https://nookipedia.com/wiki/Lucha"
+    },
+    {
+        "name": "Lucky",
+        "species": "Dog",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 11,
+            "day": 4,
+            "text": "November 4th"
+        },
+        "zodiac": "Scorpio",
+        "data_url": "https://nookipedia.com/wiki/Lucky"
+    },
+    {
+        "name": "Lucy",
+        "species": "Pig",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 6,
+            "day": 2,
+            "text": "June 2nd"
+        },
+        "zodiac": "Gemini",
+        "data_url": "https://nookipedia.com/wiki/Lucy"
+    },
+    {
+        "name": "Lyman",
+        "species": "Koala",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 10,
+            "day": 12,
+            "text": "October 12th"
+        },
+        "zodiac": "Libra",
+        "data_url": "https://nookipedia.com/wiki/Lyman"
+    },
+    {
+        "name": "Mac",
+        "species": "Dog",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 11,
+            "day": 11,
+            "text": "November 11th"
+        },
+        "zodiac": "Scorpio",
+        "data_url": "https://nookipedia.com/wiki/Mac"
+    },
+    {
+        "name": "Maddie",
+        "species": "Dog",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 1,
+            "day": 11,
+            "text": "January 11th"
+        },
+        "zodiac": "Capricorn",
+        "data_url": "https://nookipedia.com/wiki/Maddie"
+    },
+    {
+        "name": "Maelle",
+        "species": "Duck",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 4,
+            "day": 8,
+            "text": "April 8th"
+        },
+        "zodiac": "Aries",
+        "data_url": "https://nookipedia.com/wiki/Maelle"
+    },
+    {
+        "name": "Maggie",
+        "species": "Pig",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 9,
+            "day": 3,
+            "text": "September 3rd"
+        },
+        "zodiac": "Virgo",
+        "data_url": "https://nookipedia.com/wiki/Maggie"
+    },
+    {
+        "name": "Mallary",
+        "species": "Duck",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 11,
+            "day": 17,
+            "text": "November 17th"
+        },
+        "zodiac": "Scorpio",
+        "data_url": "https://nookipedia.com/wiki/Mallary"
+    },
+    {
+        "name": "Maple",
+        "species": "Cub",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 6,
+            "day": 15,
+            "text": "June 15th"
+        },
+        "zodiac": "Gemini",
+        "data_url": "https://nookipedia.com/wiki/Maple"
+    },
+    {
+        "name": "Marcel",
+        "species": "Dog",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 12,
+            "day": 31,
+            "text": "December 31st"
+        },
+        "zodiac": "Capricorn",
+        "data_url": "https://nookipedia.com/wiki/Marcel"
+    },
+    {
+        "name": "Marcie",
+        "species": "Kangaroo",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 5,
+            "day": 31,
+            "text": "May 31st"
+        },
+        "zodiac": "Gemini",
+        "data_url": "https://nookipedia.com/wiki/Marcie"
+    },
+    {
+        "name": "Margie",
+        "species": "Elephant",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 1,
+            "day": 28,
+            "text": "January 28th"
+        },
+        "zodiac": "Aquarius",
+        "data_url": "https://nookipedia.com/wiki/Margie"
+    },
+    {
+        "name": "Marina",
+        "species": "Octopus",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 6,
+            "day": 26,
+            "text": "June 26th"
+        },
+        "zodiac": "Cancer",
+        "data_url": "https://nookipedia.com/wiki/Marina"
+    },
+    {
+        "name": "Marshal",
+        "species": "Squirrel",
+        "personality": "Smug",
+        "gender": "Male",
+        "birthday": {
+            "month": 9,
+            "day": 29,
+            "text": "September 29th"
+        },
+        "zodiac": "Libra",
+        "data_url": "https://nookipedia.com/wiki/Marshal"
+    },
+    {
+        "name": "Marty",
+        "species": "Cub",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 4,
+            "day": 16,
+            "text": "April 16th"
+        },
+        "zodiac": "Aries",
+        "data_url": "https://nookipedia.com/wiki/Marty"
+    },
+    {
+        "name": "Mathilda",
+        "species": "Kangaroo",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 11,
+            "day": 12,
+            "text": "November 12th"
+        },
+        "zodiac": "Scorpio",
+        "data_url": "https://nookipedia.com/wiki/Mathilda"
+    },
+    {
+        "name": "Megan",
+        "species": "Bear",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 3,
+            "day": 13,
+            "text": "March 13th"
+        },
+        "zodiac": "Pisces",
+        "data_url": "https://nookipedia.com/wiki/Megan"
+    },
+    {
+        "name": "Melba",
+        "species": "Koala",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 4,
+            "day": 12,
+            "text": "April 12th"
+        },
+        "zodiac": "Aries",
+        "data_url": "https://nookipedia.com/wiki/Melba"
+    },
+    {
+        "name": "Merengue",
+        "species": "Rhino",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 3,
+            "day": 19,
+            "text": "March 19th"
+        },
+        "zodiac": "Pisces",
+        "data_url": "https://nookipedia.com/wiki/Merengue"
+    },
+    {
+        "name": "Merry",
+        "species": "Cat",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 6,
+            "day": 29,
+            "text": "June 29th"
+        },
+        "zodiac": "Cancer",
+        "data_url": "https://nookipedia.com/wiki/Merry"
+    },
+    {
+        "name": "Midge",
+        "species": "Bird",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 3,
+            "day": 12,
+            "text": "March 12th"
+        },
+        "zodiac": "Pisces",
+        "data_url": "https://nookipedia.com/wiki/Midge"
+    },
+    {
+        "name": "Mint",
+        "species": "Squirrel",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 5,
+            "day": 2,
+            "text": "May 2nd"
+        },
+        "zodiac": "Taurus",
+        "data_url": "https://nookipedia.com/wiki/Mint"
+    },
+    {
+        "name": "Mira",
+        "species": "Rabbit",
+        "personality": "Sisterly (Uchi)",
+        "gender": "Female",
+        "birthday": {
+            "month": 7,
+            "day": 6,
+            "text": "July 6"
+        },
+        "zodiac": "Cancer",
+        "data_url": "https://nookipedia.com/wiki/Mira"
+    },
+    {
+        "name": "Miranda",
+        "species": "Duck",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 4,
+            "day": 23,
+            "text": "April 23rd"
+        },
+        "zodiac": "Taurus",
+        "data_url": "https://nookipedia.com/wiki/Miranda"
+    },
+    {
+        "name": "Mitzi",
+        "species": "Cat",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 9,
+            "day": 25,
+            "text": "September 25th"
+        },
+        "zodiac": "Libra",
+        "data_url": "https://nookipedia.com/wiki/Mitzi"
+    },
+    {
+        "name": "Moe",
+        "species": "Cat",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 1,
+            "day": 12,
+            "text": "January 12th"
+        },
+        "zodiac": "Capricorn",
+        "data_url": "https://nookipedia.com/wiki/Moe"
+    },
+    {
+        "name": "Molly",
+        "species": "Duck",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 3,
+            "day": 7,
+            "text": "March 7"
+        },
+        "zodiac": "Pisces",
+        "data_url": "https://nookipedia.com/wiki/Molly"
+    },
+    {
+        "name": "Monique",
+        "species": "Cat",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 9,
+            "day": 30,
+            "text": "September 30th"
+        },
+        "zodiac": "Libra",
+        "data_url": "https://nookipedia.com/wiki/Monique"
+    },
+    {
+        "name": "Monty",
+        "species": "Monkey",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 12,
+            "day": 7,
+            "text": "December 7th"
+        },
+        "zodiac": "Sagittarius",
+        "data_url": "https://nookipedia.com/wiki/Monty"
+    },
+    {
+        "name": "Moose",
+        "species": "Mouse",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 9,
+            "day": 13,
+            "text": "September 13th"
+        },
+        "zodiac": "Virgo",
+        "data_url": "https://nookipedia.com/wiki/Moose"
+    },
+    {
+        "name": "Mott",
+        "species": "Lion",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 7,
+            "day": 10,
+            "text": "July 10th"
+        },
+        "zodiac": "Cancer",
+        "data_url": "https://nookipedia.com/wiki/Mott"
+    },
+    {
+        "name": "Muffy",
+        "species": "Sheep",
+        "personality": "Sisterly (Uchi)",
+        "gender": "Female",
+        "birthday": {
+            "month": 2,
+            "day": 14,
+            "text": "February 14th"
+        },
+        "zodiac": "Aquarius",
+        "data_url": "https://nookipedia.com/wiki/Muffy"
+    },
+    {
+        "name": "Murphy",
+        "species": "Cub",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 12,
+            "day": 29,
+            "text": "December 29th"
+        },
+        "zodiac": "Capricorn",
+        "data_url": "https://nookipedia.com/wiki/Murphy"
+    },
+    {
+        "name": "Nan",
+        "species": "Goat",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 8,
+            "day": 24,
+            "text": "August 24th"
+        },
+        "zodiac": "Virgo",
+        "data_url": "https://nookipedia.com/wiki/Nan"
+    },
+    {
+        "name": "Nana",
+        "species": "Monkey",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 8,
+            "day": 23,
+            "text": "August 23rd"
+        },
+        "zodiac": "Virgo",
+        "data_url": "https://nookipedia.com/wiki/Nana"
+    },
+    {
+        "name": "Naomi",
+        "species": "Cow",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 2,
+            "day": 28,
+            "text": "February 28th"
+        },
+        "zodiac": "Pisces",
+        "data_url": "https://nookipedia.com/wiki/Naomi"
+    },
+    {
+        "name": "Nate",
+        "species": "Bear",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 8,
+            "day": 16,
+            "text": "August 16"
+        },
+        "zodiac": "Leo",
+        "data_url": "https://nookipedia.com/wiki/Nate"
+    },
+    {
+        "name": "Nibbles",
+        "species": "Squirrel",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 7,
+            "day": 19,
+            "text": "July 19th"
+        },
+        "zodiac": "Cancer",
+        "data_url": "https://nookipedia.com/wiki/Nibbles"
+    },
+    {
+        "name": "Norma",
+        "species": "Cow",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 9,
+            "day": 20,
+            "text": "September 20th"
+        },
+        "zodiac": "Virgo",
+        "data_url": "https://nookipedia.com/wiki/Norma"
+    },
+    {
+        "name": "O'Hare",
+        "species": "Rabbit",
+        "personality": "Cranky (Animal Crossing)Smug (New Leaf)",
+        "gender": "Male",
+        "birthday": {
+            "month": 7,
+            "day": 24,
+            "text": "July 24th"
+        },
+        "zodiac": "Leo",
+        "data_url": "https://nookipedia.com/wiki/O'Hare"
+    },
+    {
+        "name": "Octavian",
+        "species": "Octopus",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 9,
+            "day": 20,
+            "text": "September 20th"
+        },
+        "zodiac": "Virgo",
+        "data_url": "https://nookipedia.com/wiki/Octavian"
+    },
+    {
+        "name": "Olaf",
+        "species": "Anteater",
+        "personality": "Smug",
+        "gender": "Male",
+        "birthday": {
+            "month": 5,
+            "day": 19,
+            "text": "May 19th"
+        },
+        "zodiac": "Taurus",
+        "data_url": "https://nookipedia.com/wiki/Olaf"
+    },
+    {
+        "name": "Olive",
+        "species": "Cub",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 7,
+            "day": 12,
+            "text": "July 12th"
+        },
+        "zodiac": "Cancer",
+        "data_url": "https://nookipedia.com/wiki/Olive"
+    },
+    {
+        "name": "Olivia",
+        "species": "Cat",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 2,
+            "day": 3,
+            "text": "February 3rd"
+        },
+        "zodiac": "Aquarius",
+        "data_url": "https://nookipedia.com/wiki/Olivia"
+    },
+    {
+        "name": "Opal",
+        "species": "Elephant",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 1,
+            "day": 20,
+            "text": "January 20th"
+        },
+        "zodiac": "Aquarius",
+        "data_url": "https://nookipedia.com/wiki/Opal"
+    },
+    {
+        "name": "Ozzie",
+        "species": "Koala",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 5,
+            "day": 7,
+            "text": "May 7th"
+        },
+        "zodiac": "Taurus",
+        "data_url": "https://nookipedia.com/wiki/Ozzie"
+    },
+    {
+        "name": "Pancetti",
+        "species": "Pig",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 11,
+            "day": 14,
+            "text": "November 14th"
+        },
+        "zodiac": "Scorpio",
+        "data_url": "https://nookipedia.com/wiki/Pancetti"
+    },
+    {
+        "name": "Pango",
+        "species": "Anteater",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 11,
+            "day": 9,
+            "text": "November 9"
+        },
+        "zodiac": "Scorpio",
+        "data_url": "https://nookipedia.com/wiki/Pango"
+    },
+    {
+        "name": "Paolo",
+        "species": "Elephant",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 5,
+            "day": 5,
+            "text": "May 5th"
+        },
+        "zodiac": "Taurus",
+        "data_url": "https://nookipedia.com/wiki/Paolo"
+    },
+    {
+        "name": "Papi",
+        "species": "Horse",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 1,
+            "day": 10,
+            "text": "January 10th"
+        },
+        "zodiac": "Capricorn",
+        "data_url": "https://nookipedia.com/wiki/Papi"
+    },
+    {
+        "name": "Pashmina",
+        "species": "Goat",
+        "personality": "Sisterly (Uchi)",
+        "gender": "Female",
+        "birthday": {
+            "month": 12,
+            "day": 26,
+            "text": "December 26th"
+        },
+        "zodiac": "Capricorn",
+        "data_url": "https://nookipedia.com/wiki/Pashmina"
+    },
+    {
+        "name": "Pate",
+        "species": "Duck",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 2,
+            "day": 23,
+            "text": "February 23rd"
+        },
+        "zodiac": "Pisces",
+        "data_url": "https://nookipedia.com/wiki/Pate"
+    },
+    {
+        "name": "Patty",
+        "species": "Cow",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 5,
+            "day": 10,
+            "text": "May 10th"
+        },
+        "zodiac": "Taurus",
+        "data_url": "https://nookipedia.com/wiki/Patty"
+    },
+    {
+        "name": "Paula",
+        "species": "Bear",
+        "personality": "Peppy*Sisterly (Uchi)*",
+        "gender": "Female",
+        "birthday": {
+            "month": 3,
+            "day": 22,
+            "text": "March 22"
+        },
+        "zodiac": "Aries",
+        "data_url": "https://nookipedia.com/wiki/Paula"
+    },
+    {
+        "name": "Peaches",
+        "species": "Horse",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 11,
+            "day": 28,
+            "text": "November 28th"
+        },
+        "zodiac": "Sagittarius",
+        "data_url": "https://nookipedia.com/wiki/Peaches"
+    },
+    {
+        "name": "Peanut",
+        "species": "Squirrel",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 6,
+            "day": 8,
+            "text": "June 8th"
+        },
+        "zodiac": "Gemini",
+        "data_url": "https://nookipedia.com/wiki/Peanut"
+    },
+    {
+        "name": "Pecan",
+        "species": "Squirrel",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 9,
+            "day": 10,
+            "text": "September 10th"
+        },
+        "zodiac": "Virgo",
+        "data_url": "https://nookipedia.com/wiki/Pecan"
+    },
+    {
+        "name": "Peck",
+        "species": "Bird",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 7,
+            "day": 25,
+            "text": "July 25th"
+        },
+        "zodiac": "Leo",
+        "data_url": "https://nookipedia.com/wiki/Peck"
+    },
+    {
+        "name": "Peewee",
+        "species": "Gorilla",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 9,
+            "day": 11,
+            "text": "September 11th"
+        },
+        "zodiac": "Virgo",
+        "data_url": "https://nookipedia.com/wiki/Peewee"
+    },
+    {
+        "name": "Peggy",
+        "species": "Pig",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 5,
+            "day": 23,
+            "text": "May 23rd"
+        },
+        "zodiac": "Gemini",
+        "data_url": "https://nookipedia.com/wiki/Peggy"
+    },
+    {
+        "name": "Pekoe",
+        "species": "Cub",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 5,
+            "day": 18,
+            "text": "May 18th"
+        },
+        "zodiac": "Taurus",
+        "data_url": "https://nookipedia.com/wiki/Pekoe"
+    },
+    {
+        "name": "Penelope",
+        "species": "Mouse",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 2,
+            "day": 5,
+            "text": "February 5th"
+        },
+        "zodiac": "Aquarius",
+        "data_url": "https://nookipedia.com/wiki/Penelope"
+    },
+    {
+        "name": "Phil",
+        "species": "Ostrich",
+        "personality": "Smug",
+        "gender": "Male",
+        "birthday": {
+            "month": 11,
+            "day": 27,
+            "text": "November 27th"
+        },
+        "zodiac": "Sagittarius",
+        "data_url": "https://nookipedia.com/wiki/Phil"
+    },
+    {
+        "name": "Phoebe",
+        "species": "Ostrich",
+        "personality": "Sisterly (Uchi)",
+        "gender": "Female",
+        "birthday": {
+            "month": 4,
+            "day": 22,
+            "text": "April 22nd"
+        },
+        "zodiac": "Taurus",
+        "data_url": "https://nookipedia.com/wiki/Phoebe"
+    },
+    {
+        "name": "Pierce",
+        "species": "Eagle",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 1,
+            "day": 8,
+            "text": "January 8th"
+        },
+        "zodiac": "Capricorn",
+        "data_url": "https://nookipedia.com/wiki/Pierce"
+    },
+    {
+        "name": "Pietro",
+        "species": "Sheep",
+        "personality": "Smug",
+        "gender": "Male",
+        "birthday": {
+            "month": 4,
+            "day": 19,
+            "text": "April 19th"
+        },
+        "zodiac": "Aries",
+        "data_url": "https://nookipedia.com/wiki/Pietro"
+    },
+    {
+        "name": "Pinky",
+        "species": "Bear",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 9,
+            "day": 9,
+            "text": "September 9"
+        },
+        "zodiac": "Virgo",
+        "data_url": "https://nookipedia.com/wiki/Pinky"
+    },
+    {
+        "name": "Piper",
+        "species": "Bird",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 4,
+            "day": 18,
+            "text": "April 18th"
+        },
+        "zodiac": "Aries",
+        "data_url": "https://nookipedia.com/wiki/Piper"
+    },
+    {
+        "name": "Pippy",
+        "species": "Rabbit",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 6,
+            "day": 14,
+            "text": "June 14th"
+        },
+        "zodiac": "Gemini",
+        "data_url": "https://nookipedia.com/wiki/Pippy"
+    },
+    {
+        "name": "Plucky",
+        "species": "Chicken",
+        "personality": "Peppy (Animal Crossing) Sisterly (Uchi) (Animal Crossing: New Leaf - Welcome amiibo)",
+        "gender": "Female",
+        "birthday": {
+            "month": 10,
+            "day": 12,
+            "text": "October 12th"
+        },
+        "zodiac": "Libra",
+        "data_url": "https://nookipedia.com/wiki/Plucky"
+    },
+    {
+        "name": "Pompom",
+        "species": "Duck",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 2,
+            "day": 11,
+            "text": "February 11th"
+        },
+        "zodiac": "Aquarius",
+        "data_url": "https://nookipedia.com/wiki/Pompom"
+    },
+    {
+        "name": "Poncho",
+        "species": "Cub",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 1,
+            "day": 2,
+            "text": "January 2nd"
+        },
+        "zodiac": "Capricorn",
+        "data_url": "https://nookipedia.com/wiki/Poncho"
+    },
+    {
+        "name": "Poppy",
+        "species": "Squirrel",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 8,
+            "day": 5,
+            "text": "August 5th"
+        },
+        "zodiac": "Leo",
+        "data_url": "https://nookipedia.com/wiki/Poppy"
+    },
+    {
+        "name": "Portia",
+        "species": "Dog",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 10,
+            "day": 25,
+            "text": "October 25th"
+        },
+        "zodiac": "Scorpio",
+        "data_url": "https://nookipedia.com/wiki/Portia"
+    },
+    {
+        "name": "Prince",
+        "species": "Frog",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 7,
+            "day": 21,
+            "text": "July 21st"
+        },
+        "zodiac": "Cancer",
+        "data_url": "https://nookipedia.com/wiki/Prince"
+    },
+    {
+        "name": "Puck",
+        "species": "Penguin",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 2,
+            "day": 21,
+            "text": "February 21st"
+        },
+        "zodiac": "Pisces",
+        "data_url": "https://nookipedia.com/wiki/Puck"
+    },
+    {
+        "name": "Puddles",
+        "species": "Frog",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 1,
+            "day": 13,
+            "text": "January 13th"
+        },
+        "zodiac": "Capricorn",
+        "data_url": "https://nookipedia.com/wiki/Puddles"
+    },
+    {
+        "name": "Pudge",
+        "species": "Cub",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 6,
+            "day": 11,
+            "text": "June 11th"
+        },
+        "zodiac": "Gemini",
+        "data_url": "https://nookipedia.com/wiki/Pudge"
+    },
+    {
+        "name": "Punchy",
+        "species": "Cat",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 4,
+            "day": 11,
+            "text": "April 11th"
+        },
+        "zodiac": "Aries",
+        "data_url": "https://nookipedia.com/wiki/Punchy"
+    },
+    {
+        "name": "Purrl",
+        "species": "Cat",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 5,
+            "day": 29,
+            "text": "May 29th"
+        },
+        "zodiac": "Gemini",
+        "data_url": "https://nookipedia.com/wiki/Purrl"
+    },
+    {
+        "name": "Queenie",
+        "species": "Ostrich",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 11,
+            "day": 13,
+            "text": "November 13th"
+        },
+        "zodiac": "Scorpio",
+        "data_url": "https://nookipedia.com/wiki/Queenie"
+    },
+    {
+        "name": "Quillson",
+        "species": "Duck",
+        "personality": "Smug",
+        "gender": "Male",
+        "birthday": {
+            "month": 12,
+            "day": 22,
+            "text": "December 22nd"
+        },
+        "zodiac": "Capricorn",
+        "data_url": "https://nookipedia.com/wiki/Quillson"
+    },
+    {
+        "name": "Raddle",
+        "species": "Frog",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 6,
+            "day": 6,
+            "text": "June 6th"
+        },
+        "zodiac": "Gemini",
+        "data_url": "https://nookipedia.com/wiki/Raddle"
+    },
+    {
+        "name": "Rasher",
+        "species": "Pig",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 4,
+            "day": 7,
+            "text": "April 7th"
+        },
+        "zodiac": "Aries",
+        "data_url": "https://nookipedia.com/wiki/Rasher"
+    },
+    {
+        "name": "Raymond",
+        "species": "Cat",
+        "personality": "Smug",
+        "gender": "Male",
+        "birthday": {
+            "month": 10,
+            "day": 1,
+            "text": "October 1st"
+        },
+        "zodiac": "Libra",
+        "data_url": "https://nookipedia.com/wiki/Raymond"
+    },
+    {
+        "name": "Reneigh",
+        "species": "Horse",
+        "personality": "Sisterly (Uchi)",
+        "gender": "Female",
+        "birthday": {
+            "month": 6,
+            "day": 4,
+            "text": "June 4th"
+        },
+        "zodiac": "Gemini",
+        "data_url": "https://nookipedia.com/wiki/Reneigh"
+    },
+    {
+        "name": "Renée",
+        "species": "Rhino",
+        "personality": "Sisterly (Uchi)",
+        "gender": "Female",
+        "birthday": {
+            "month": 5,
+            "day": 28,
+            "text": "May 28th"
+        },
+        "zodiac": "Gemini",
+        "data_url": "https://nookipedia.com/wiki/Ren%C3%A9e"
+    },
+    {
+        "name": "Rex",
+        "species": "Lion",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 7,
+            "day": 24,
+            "text": "July 24th"
+        },
+        "zodiac": "Leo",
+        "data_url": "https://nookipedia.com/wiki/Rex"
+    },
+    {
+        "name": "Rhonda",
+        "species": "Rhino",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 1,
+            "day": 24,
+            "text": "January 24th"
+        },
+        "zodiac": "Aquarius",
+        "data_url": "https://nookipedia.com/wiki/Rhonda"
+    },
+    {
+        "name": "Ribbot",
+        "species": "Frog",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 2,
+            "day": 13,
+            "text": "February 13th"
+        },
+        "zodiac": "Aquarius",
+        "data_url": "https://nookipedia.com/wiki/Ribbot"
+    },
+    {
+        "name": "Ricky",
+        "species": "Squirrel",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 9,
+            "day": 14,
+            "text": "September 14th"
+        },
+        "zodiac": "Virgo",
+        "data_url": "https://nookipedia.com/wiki/Ricky"
+    },
+    {
+        "name": "Rilla",
+        "species": "Gorilla",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 11,
+            "day": 1,
+            "text": "November 1st"
+        },
+        "zodiac": "Scorpio",
+        "data_url": "https://nookipedia.com/wiki/Rilla"
+    },
+    {
+        "name": "Rizzo",
+        "species": "Mouse",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 1,
+            "day": 17,
+            "text": "January 17th"
+        },
+        "zodiac": "Capricorn",
+        "data_url": "https://nookipedia.com/wiki/Rizzo"
+    },
+    {
+        "name": "Roald",
+        "species": "Penguin",
+        "personality": "Jock",
+        "gender": "Unknown",
+        "birthday": {
+            "month": 1,
+            "day": 5,
+            "text": "January 5th"
+        },
+        "zodiac": "Capricorn",
+        "data_url": "https://nookipedia.com/wiki/Roald"
+    },
+    {
+        "name": "Robin",
+        "species": "Bird",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 12,
+            "day": 4,
+            "text": "December 4th"
+        },
+        "zodiac": "Sagittarius",
+        "data_url": "https://nookipedia.com/wiki/Robin"
+    },
+    {
+        "name": "Rocco",
+        "species": "Hippo",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 8,
+            "day": 18,
+            "text": "August 18th"
+        },
+        "zodiac": "Leo",
+        "data_url": "https://nookipedia.com/wiki/Rocco"
+    },
+    {
+        "name": "Rocket",
+        "species": "Gorilla",
+        "personality": "Sisterly (Uchi)",
+        "gender": "Female",
+        "birthday": {
+            "month": 4,
+            "day": 14,
+            "text": "April 14th"
+        },
+        "zodiac": "Aries",
+        "data_url": "https://nookipedia.com/wiki/Rocket"
+    },
+    {
+        "name": "Rod",
+        "species": "Mouse",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 8,
+            "day": 14,
+            "text": "August 14th"
+        },
+        "zodiac": "Leo",
+        "data_url": "https://nookipedia.com/wiki/Rod"
+    },
+    {
+        "name": "Rodeo",
+        "species": "Bull",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 10,
+            "day": 29,
+            "text": "October 29th"
+        },
+        "zodiac": "Scorpio",
+        "data_url": "https://nookipedia.com/wiki/Rodeo"
+    },
+    {
+        "name": "Rodney",
+        "species": "Hamster",
+        "personality": "Smug",
+        "gender": "Male",
+        "birthday": {
+            "month": 11,
+            "day": 10,
+            "text": "November 10th"
+        },
+        "zodiac": "Scorpio",
+        "data_url": "https://nookipedia.com/wiki/Rodney"
+    },
+    {
+        "name": "Rolf",
+        "species": "Tiger",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 8,
+            "day": 22,
+            "text": "August 22nd"
+        },
+        "zodiac": "Leo",
+        "data_url": "https://nookipedia.com/wiki/Rolf"
+    },
+    {
+        "name": "Rooney",
+        "species": "Kangaroo",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 12,
+            "day": 1,
+            "text": "December 1st"
+        },
+        "zodiac": "Sagittarius",
+        "data_url": "https://nookipedia.com/wiki/Rooney"
+    },
+    {
+        "name": "Rory",
+        "species": "Lion",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 8,
+            "day": 7,
+            "text": "August 7st"
+        },
+        "zodiac": "Leo",
+        "data_url": "https://nookipedia.com/wiki/Rory"
+    },
+    {
+        "name": "Roscoe",
+        "species": "Horse",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 6,
+            "day": 16,
+            "text": "June 16th"
+        },
+        "zodiac": "Gemini",
+        "data_url": "https://nookipedia.com/wiki/Roscoe"
+    },
+    {
+        "name": "Rosie",
+        "species": "Cat",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 2,
+            "day": 27,
+            "text": "February 27th"
+        },
+        "zodiac": "Pisces",
+        "data_url": "https://nookipedia.com/wiki/Rosie"
+    },
+    {
+        "name": "Rowan",
+        "species": "Tiger",
+        "personality": "Cranky (Animal Crossing)Jock (Wild World onwards)",
+        "gender": "Male",
+        "birthday": {
+            "month": 8,
+            "day": 26,
+            "text": "August 26th"
+        },
+        "zodiac": "Virgo",
+        "data_url": "https://nookipedia.com/wiki/Rowan"
+    },
+    {
+        "name": "Ruby",
+        "species": "Rabbit",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 12,
+            "day": 25,
+            "text": "December 25th"
+        },
+        "zodiac": "Sagittarius",
+        "data_url": "https://nookipedia.com/wiki/Ruby"
+    },
+    {
+        "name": "Rudy",
+        "species": "Cat",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 12,
+            "day": 20,
+            "text": "December 20th"
+        },
+        "zodiac": "Sagittarius",
+        "data_url": "https://nookipedia.com/wiki/Rudy"
+    },
+    {
+        "name": "Sally",
+        "species": "Squirrel",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 6,
+            "day": 19,
+            "text": "June 19th"
+        },
+        "zodiac": "Gemini",
+        "data_url": "https://nookipedia.com/wiki/Sally"
+    },
+    {
+        "name": "Samson",
+        "species": "Mouse",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 7,
+            "day": 5,
+            "text": "July 5th"
+        },
+        "zodiac": "Cancer",
+        "data_url": "https://nookipedia.com/wiki/Samson"
+    },
+    {
+        "name": "Sandy",
+        "species": "Ostrich",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 10,
+            "day": 21,
+            "text": "October 21st"
+        },
+        "zodiac": "Libra",
+        "data_url": "https://nookipedia.com/wiki/Sandy"
+    },
+    {
+        "name": "Savannah",
+        "species": "Horse",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 1,
+            "day": 25,
+            "text": "January 25th"
+        },
+        "zodiac": "Aquarius",
+        "data_url": "https://nookipedia.com/wiki/Savannah"
+    },
+    {
+        "name": "Scoot",
+        "species": "Duck",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 6,
+            "day": 13,
+            "text": "June 13th"
+        },
+        "zodiac": "Gemini",
+        "data_url": "https://nookipedia.com/wiki/Scoot"
+    },
+    {
+        "name": "Shari",
+        "species": "Monkey",
+        "personality": "Sisterly (Uchi)",
+        "gender": "Female",
+        "birthday": {
+            "month": 4,
+            "day": 10,
+            "text": "April 10th"
+        },
+        "zodiac": "Aries",
+        "data_url": "https://nookipedia.com/wiki/Shari"
+    },
+    {
+        "name": "Sheldon",
+        "species": "Squirrel",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 2,
+            "day": 26,
+            "text": "February 26th"
+        },
+        "zodiac": "Pisces",
+        "data_url": "https://nookipedia.com/wiki/Sheldon"
+    },
+    {
+        "name": "Shep",
+        "species": "Dog",
+        "personality": "Smug",
+        "gender": "Male",
+        "birthday": {
+            "month": 11,
+            "day": 24,
+            "text": "November 24th"
+        },
+        "zodiac": "Sagittarius",
+        "data_url": "https://nookipedia.com/wiki/Shep"
+    },
+    {
+        "name": "Sherb",
+        "species": "Goat",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 1,
+            "day": 18,
+            "text": "January 18th"
+        },
+        "zodiac": "Capricorn",
+        "data_url": "https://nookipedia.com/wiki/Sherb"
+    },
+    {
+        "name": "Simon",
+        "species": "Monkey",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 1,
+            "day": 19,
+            "text": "January 19th"
+        },
+        "zodiac": "Capricorn",
+        "data_url": "https://nookipedia.com/wiki/Simon"
+    },
+    {
+        "name": "Skye",
+        "species": "Wolf",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 3,
+            "day": 24,
+            "text": "March 24th"
+        },
+        "zodiac": "Aries",
+        "data_url": "https://nookipedia.com/wiki/Skye"
+    },
+    {
+        "name": "Sly",
+        "species": "Alligator",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 11,
+            "day": 15,
+            "text": "November 15th"
+        },
+        "zodiac": "Scorpio",
+        "data_url": "https://nookipedia.com/wiki/Sly"
+    },
+    {
+        "name": "Snake",
+        "species": "Rabbit",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 11,
+            "day": 3,
+            "text": "November 3rd"
+        },
+        "zodiac": "Scorpio",
+        "data_url": "https://nookipedia.com/wiki/Snake"
+    },
+    {
+        "name": "Snooty (villager)",
+        "species": "Anteater",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 10,
+            "day": 24,
+            "text": "October 24th"
+        },
+        "zodiac": "Scorpio",
+        "data_url": "https://nookipedia.com/wiki/Snooty_(villager)"
+    },
+    {
+        "name": "Soleil",
+        "species": "Hamster",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 8,
+            "day": 9,
+            "text": "August 9th"
+        },
+        "zodiac": "Leo",
+        "data_url": "https://nookipedia.com/wiki/Soleil"
+    },
+    {
+        "name": "Sparro",
+        "species": "Bird",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 11,
+            "day": 20,
+            "text": "November 20th"
+        },
+        "zodiac": "Scorpio",
+        "data_url": "https://nookipedia.com/wiki/Sparro"
+    },
+    {
+        "name": "Spike",
+        "species": "Rhino",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 6,
+            "day": 17,
+            "text": "June 17th"
+        },
+        "zodiac": "Cancer",
+        "data_url": "https://nookipedia.com/wiki/Spike"
+    },
+    {
+        "name": "Spork",
+        "species": "Pig",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 9,
+            "day": 3,
+            "text": "September 3rd"
+        },
+        "zodiac": "Virgo",
+        "data_url": "https://nookipedia.com/wiki/Spork"
+    },
+    {
+        "name": "Sprinkle",
+        "species": "Penguin",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 2,
+            "day": 20,
+            "text": "February 20th"
+        },
+        "zodiac": "Pisces",
+        "data_url": "https://nookipedia.com/wiki/Sprinkle"
+    },
+    {
+        "name": "Sprocket",
+        "species": "Ostrich",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 12,
+            "day": 1,
+            "text": "December 1st"
+        },
+        "zodiac": "Sagittarius",
+        "data_url": "https://nookipedia.com/wiki/Sprocket"
+    },
+    {
+        "name": "Static",
+        "species": "Squirrel",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 7,
+            "day": 9,
+            "text": "July 9th"
+        },
+        "zodiac": "Cancer",
+        "data_url": "https://nookipedia.com/wiki/Static"
+    },
+    {
+        "name": "Stella",
+        "species": "Sheep",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 4,
+            "day": 9,
+            "text": "April 9th"
+        },
+        "zodiac": "Aries",
+        "data_url": "https://nookipedia.com/wiki/Stella"
+    },
+    {
+        "name": "Sterling",
+        "species": "Eagle",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 12,
+            "day": 11,
+            "text": "December 11th"
+        },
+        "zodiac": "Sagittarius",
+        "data_url": "https://nookipedia.com/wiki/Sterling"
+    },
+    {
+        "name": "Stinky",
+        "species": "Cat",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 8,
+            "day": 17,
+            "text": "August 17th"
+        },
+        "zodiac": "Leo",
+        "data_url": "https://nookipedia.com/wiki/Stinky"
+    },
+    {
+        "name": "Stitches",
+        "species": "Cub",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 2,
+            "day": 10,
+            "text": "February 10th"
+        },
+        "zodiac": "Aquarius",
+        "data_url": "https://nookipedia.com/wiki/Stitches"
+    },
+    {
+        "name": "Stu",
+        "species": "Bull",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 4,
+            "day": 20,
+            "text": "April 20th"
+        },
+        "zodiac": "Taurus",
+        "data_url": "https://nookipedia.com/wiki/Stu"
+    },
+    {
+        "name": "Sydney",
+        "species": "Koala",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 6,
+            "day": 21,
+            "text": "June 21st"
+        },
+        "zodiac": "Gemini",
+        "data_url": "https://nookipedia.com/wiki/Sydney"
+    },
+    {
+        "name": "Sylvana",
+        "species": "Squirrel",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 10,
+            "day": 22,
+            "text": "October 22nd"
+        },
+        "zodiac": "Libra",
+        "data_url": "https://nookipedia.com/wiki/Sylvana"
+    },
+    {
+        "name": "Sylvia",
+        "species": "Kangaroo",
+        "personality": "Snooty (Doubutsu no Mori e+)Sisterly (Uchi) (Animal Crossing: New Leaf)",
+        "gender": "Female",
+        "birthday": {
+            "month": 5,
+            "day": 3,
+            "text": "May 3rd"
+        },
+        "zodiac": "Taurus",
+        "data_url": "https://nookipedia.com/wiki/Sylvia"
+    },
+    {
+        "name": "T-Bone",
+        "species": "Bull",
+        "personality": "Lazy (Animal Crossing)Cranky (New Leaf onwards)",
+        "gender": "Male",
+        "birthday": {
+            "month": 5,
+            "day": 20,
+            "text": "May 20th"
+        },
+        "zodiac": "Taurus",
+        "data_url": "https://nookipedia.com/wiki/T-Bone"
+    },
+    {
+        "name": "Tabby",
+        "species": "Cat",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 8,
+            "day": 13,
+            "text": "August 13th"
+        },
+        "zodiac": "Leo",
+        "data_url": "https://nookipedia.com/wiki/Tabby"
+    },
+    {
+        "name": "Tad",
+        "species": "Frog",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 8,
+            "day": 3,
+            "text": "August 3rd"
+        },
+        "zodiac": "Leo",
+        "data_url": "https://nookipedia.com/wiki/Tad"
+    },
+    {
+        "name": "Tammi",
+        "species": "Monkey",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 4,
+            "day": 2,
+            "text": "April 2nd"
+        },
+        "zodiac": "Aries",
+        "data_url": "https://nookipedia.com/wiki/Tammi"
+    },
+    {
+        "name": "Tammy",
+        "species": "Cub",
+        "personality": "Sisterly (Uchi)",
+        "gender": "Female",
+        "birthday": {
+            "month": 6,
+            "day": 23,
+            "text": "June 23rd"
+        },
+        "zodiac": "Cancer",
+        "data_url": "https://nookipedia.com/wiki/Tammy"
+    },
+    {
+        "name": "Tangy",
+        "species": "Cat",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 6,
+            "day": 17,
+            "text": "June 17th"
+        },
+        "zodiac": "Gemini",
+        "data_url": "https://nookipedia.com/wiki/Tangy"
+    },
+    {
+        "name": "Tank",
+        "species": "Rhino",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 5,
+            "day": 6,
+            "text": "May 6th"
+        },
+        "zodiac": "Taurus",
+        "data_url": "https://nookipedia.com/wiki/Tank"
+    },
+    {
+        "name": "Tasha",
+        "species": "Squirrel",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 11,
+            "day": 30,
+            "text": "November 30th"
+        },
+        "zodiac": "Sagittarius",
+        "data_url": "https://nookipedia.com/wiki/Tasha"
+    },
+    {
+        "name": "Teddy",
+        "species": "Bear",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 9,
+            "day": 26,
+            "text": "September 26"
+        },
+        "zodiac": "Libra",
+        "data_url": "https://nookipedia.com/wiki/Teddy"
+    },
+    {
+        "name": "Tex",
+        "species": "Penguin",
+        "personality": "Smug",
+        "gender": "Male",
+        "birthday": {
+            "month": 10,
+            "day": 6,
+            "text": "October 6th"
+        },
+        "zodiac": "Libra",
+        "data_url": "https://nookipedia.com/wiki/Tex"
+    },
+    {
+        "name": "Tia",
+        "species": "Elephant",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 11,
+            "day": 18,
+            "text": "November 18th"
+        },
+        "zodiac": "Scorpio",
+        "data_url": "https://nookipedia.com/wiki/Tia"
+    },
+    {
+        "name": "Tiffany",
+        "species": "Rabbit",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 1,
+            "day": 9,
+            "text": "January 9th"
+        },
+        "zodiac": "Capricorn",
+        "data_url": "https://nookipedia.com/wiki/Tiffany"
+    },
+    {
+        "name": "Timbra",
+        "species": "Sheep",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 10,
+            "day": 21,
+            "text": "October 21st"
+        },
+        "zodiac": "Libra",
+        "data_url": "https://nookipedia.com/wiki/Timbra"
+    },
+    {
+        "name": "Tipper",
+        "species": "Cow",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 8,
+            "day": 25,
+            "text": "August 25th"
+        },
+        "zodiac": "Virgo",
+        "data_url": "https://nookipedia.com/wiki/Tipper"
+    },
+    {
+        "name": "Toby",
+        "species": "Rabbit",
+        "personality": "Smug",
+        "gender": "Male",
+        "birthday": {
+            "month": 7,
+            "day": 10,
+            "text": "July 10th"
+        },
+        "zodiac": "Cancer",
+        "data_url": "https://nookipedia.com/wiki/Toby"
+    },
+    {
+        "name": "Tom",
+        "species": "Cat",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 12,
+            "day": 10,
+            "text": "December 10th"
+        },
+        "zodiac": "Sagittarius",
+        "data_url": "https://nookipedia.com/wiki/Tom"
+    },
+    {
+        "name": "Truffles",
+        "species": "Pig",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 7,
+            "day": 28,
+            "text": "July 28th"
+        },
+        "zodiac": "Leo",
+        "data_url": "https://nookipedia.com/wiki/Truffles"
+    },
+    {
+        "name": "Tucker",
+        "species": "Elephant",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 9,
+            "day": 7,
+            "text": "September 7th"
+        },
+        "zodiac": "Virgo",
+        "data_url": "https://nookipedia.com/wiki/Tucker"
+    },
+    {
+        "name": "Tutu",
+        "species": "Bear",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 9,
+            "day": 15,
+            "text": "September 15"
+        },
+        "zodiac": "Virgo",
+        "data_url": "https://nookipedia.com/wiki/Tutu"
+    },
+    {
+        "name": "Twiggy",
+        "species": "Bird",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 7,
+            "day": 13,
+            "text": "July 13th"
+        },
+        "zodiac": "Cancer",
+        "data_url": "https://nookipedia.com/wiki/Twiggy"
+    },
+    {
+        "name": "Tybalt",
+        "species": "Tiger",
+        "personality": "Jock",
+        "gender": "Male",
+        "birthday": {
+            "month": 8,
+            "day": 19,
+            "text": "August 19th"
+        },
+        "zodiac": "Leo",
+        "data_url": "https://nookipedia.com/wiki/Tybalt"
+    },
+    {
+        "name": "Ursala",
+        "species": "Bear",
+        "personality": "Snooty (Animal Crossing) Sisterly (Uchi) (Animal Crossing: New Leaf)",
+        "gender": "Female",
+        "birthday": {
+            "month": 1,
+            "day": 16,
+            "text": "January 16th"
+        },
+        "zodiac": "Capricorn",
+        "data_url": "https://nookipedia.com/wiki/Ursala"
+    },
+    {
+        "name": "Velma",
+        "species": "Goat",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 1,
+            "day": 14,
+            "text": "January 14th"
+        },
+        "zodiac": "Capricorn",
+        "data_url": "https://nookipedia.com/wiki/Velma"
+    },
+    {
+        "name": "Vesta",
+        "species": "Sheep",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 4,
+            "day": 16,
+            "text": "April 16th"
+        },
+        "zodiac": "Aries",
+        "data_url": "https://nookipedia.com/wiki/Vesta"
+    },
+    {
+        "name": "Vic",
+        "species": "Bull",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 12,
+            "day": 29,
+            "text": "December 29th"
+        },
+        "zodiac": "Capricorn",
+        "data_url": "https://nookipedia.com/wiki/Vic"
+    },
+    {
+        "name": "Victoria",
+        "species": "Horse",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 7,
+            "day": 11,
+            "text": "July 11th"
+        },
+        "zodiac": "Cancer",
+        "data_url": "https://nookipedia.com/wiki/Victoria"
+    },
+    {
+        "name": "Violet",
+        "species": "Gorilla",
+        "personality": "Peppy (Animal Forest e+)Snooty (City Folk onwards)",
+        "gender": "Female",
+        "birthday": {
+            "month": 9,
+            "day": 1,
+            "text": "September 1st"
+        },
+        "zodiac": "Virgo",
+        "data_url": "https://nookipedia.com/wiki/Violet"
+    },
+    {
+        "name": "Vivian",
+        "species": "Wolf",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 1,
+            "day": 26,
+            "text": "January 26th"
+        },
+        "zodiac": "Aquarius",
+        "data_url": "https://nookipedia.com/wiki/Vivian"
+    },
+    {
+        "name": "Vladimir",
+        "species": "Cub",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 8,
+            "day": 2,
+            "text": "August 2nd"
+        },
+        "zodiac": "Leo",
+        "data_url": "https://nookipedia.com/wiki/Vladimir"
+    },
+    {
+        "name": "Wade",
+        "species": "Penguin",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 10,
+            "day": 30,
+            "text": "October 30th"
+        },
+        "zodiac": "Scorpio",
+        "data_url": "https://nookipedia.com/wiki/Wade"
+    },
+    {
+        "name": "Walker",
+        "species": "Dog",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 6,
+            "day": 10,
+            "text": "June 10th"
+        },
+        "zodiac": "Gemini",
+        "data_url": "https://nookipedia.com/wiki/Walker"
+    },
+    {
+        "name": "Walt",
+        "species": "Kangaroo",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 4,
+            "day": 24,
+            "text": "April 24th"
+        },
+        "zodiac": "Taurus",
+        "data_url": "https://nookipedia.com/wiki/Walt"
+    },
+    {
+        "name": "Wart Jr.",
+        "species": "Frog",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 8,
+            "day": 21,
+            "text": "August 21st"
+        },
+        "zodiac": "Leo",
+        "data_url": "https://nookipedia.com/wiki/Wart_Jr."
+    },
+    {
+        "name": "Weber",
+        "species": "Duck",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 6,
+            "day": 30,
+            "text": "June 30th"
+        },
+        "zodiac": "Cancer",
+        "data_url": "https://nookipedia.com/wiki/Weber"
+    },
+    {
+        "name": "Wendy",
+        "species": "Sheep",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 8,
+            "day": 15,
+            "text": "August 15th"
+        },
+        "zodiac": "Leo",
+        "data_url": "https://nookipedia.com/wiki/Wendy"
+    },
+    {
+        "name": "Whitney",
+        "species": "Wolf",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 9,
+            "day": 17,
+            "text": "September 17th"
+        },
+        "zodiac": "Virgo",
+        "data_url": "https://nookipedia.com/wiki/Whitney"
+    },
+    {
+        "name": "Willow",
+        "species": "Sheep",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 11,
+            "day": 26,
+            "text": "November 26th"
+        },
+        "zodiac": "Sagittarius",
+        "data_url": "https://nookipedia.com/wiki/Willow"
+    },
+    {
+        "name": "Winnie",
+        "species": "Horse",
+        "personality": "Peppy",
+        "gender": "Female",
+        "birthday": {
+            "month": 1,
+            "day": 31,
+            "text": "January 31st"
+        },
+        "zodiac": "Aquarius",
+        "data_url": "https://nookipedia.com/wiki/Winnie"
+    },
+    {
+        "name": "Wolfgang",
+        "species": "Wolf",
+        "personality": "Cranky",
+        "gender": "Male",
+        "birthday": {
+            "month": 11,
+            "day": 25,
+            "text": "November 25th"
+        },
+        "zodiac": "Sagittarius",
+        "data_url": "https://nookipedia.com/wiki/Wolfgang"
+    },
+    {
+        "name": "Yuka",
+        "species": "Koala",
+        "personality": "Snooty",
+        "gender": "Female",
+        "birthday": {
+            "month": 7,
+            "day": 20,
+            "text": "July 20th"
+        },
+        "zodiac": "Cancer",
+        "data_url": "https://nookipedia.com/wiki/Yuka"
+    },
+    {
+        "name": "Zell",
+        "species": "Deer",
+        "personality": "Smug",
+        "gender": "Male",
+        "birthday": {
+            "month": 6,
+            "day": 7,
+            "text": "June 7th"
+        },
+        "zodiac": "Gemini",
+        "data_url": "https://nookipedia.com/wiki/Zell"
+    },
+    {
+        "name": "Zucker",
+        "species": "Octopus",
+        "personality": "Lazy",
+        "gender": "Male",
+        "birthday": {
+            "month": 3,
+            "day": 8,
+            "text": "March 8th"
+        },
+        "zodiac": "Pisces",
+        "data_url": "https://nookipedia.com/wiki/Zucker"
+    },
+    {
+        "name": "Étoile",
+        "species": "Sheep",
+        "personality": "Normal",
+        "gender": "Female",
+        "birthday": {
+            "month": 12,
+            "day": 25,
+            "text": "December 25th"
+        },
+        "zodiac": "Capricorn",
+        "data_url": "https://nookipedia.com/wiki/%C3%89toile"
+    }
+]

@@ -1,8 +1,8 @@
-<h2>AC: New Horizons JSON data</h2>
-<p>Contains data for Animal Crossing: New Horizons in JSON format.</p>
+## AC: New Horizons JSON data
+Contains data for Animal Crossing: New Horizons in JSON format.
 
-<h5>Structure for fish:</h5>
-<pre>
+##### Structure for fish:
+```
 id                      //ID number of fish (int)
 name                    //Name of fish (string)
 location                //Location where fish can be found (string)
@@ -18,10 +18,10 @@ months                  //Months fish is available
 |_southern                  //...for southern hemisphere
      |_array                    //array form of months (e.g. [1, 2, 3, 4])
      |_text                     //text format of months (e.g. "January - April")
-</pre>
+```
 
-<h5>Structure for insects</h5>
-<pre>
+##### Structure for insects
+```
 id                      //ID number of insect (int)
 name                    //Name of insect (string)
 location                //Location where insect can be found (string)
@@ -36,13 +36,36 @@ months                  //Months insect is available
 |_southern                  //...for southern hemisphere
      |_array                    //array form of months (e.g. [1, 2, 3, 4])
      |_text                     //text format of months (e.g. "January - April")
-</pre>
+```
 
-<h5>Structure for fossils</h5>
-<pre>
+##### Structure for fossils
+```
 fossil                   //Name of parent fossil (string)
 part_name                //Individual part's name (the item assessed by Blathers) (string)
 price                    //Price assessed fossil can be sold for (int)
-</pre>
+```
 
-<p>This is the current data I have (scrapped from the internet), pull requests are welcome (but please stick to the schema).
+##### Structure for Villagers
+```
+name                     //Villager's name (string)
+species                  //Villager's species (string)
+personality              //Villager's personality type (string)
+gender                   //Villager's listed gender (string)
+birthday                 //Object representing birthday (object)
+|_month                  //integer value for birth month (e.g. 1 = January, 2 = February) (int)
+|_day                    //integer value for day of birth (e.g. 1 = first, 2 = second) (int)
+|_text                   //Text form of birthday (string)
+zodiac                   //Villager's zodiac sign (string)
+data_url                 //Page data was pulled from based on Creative Commons licence (string)          
+```
+
+*Note: A few villagers are included in the list whose data appears in the game, but are not used at this time*
+The following is a list of those villager:
+- Chai
+- Chelsea
+- Étoile
+- Marty
+- Rilla
+- Toby
+
+This is the current data I have (scrapped from the internet), pull requests are welcome (but please stick to the schema).
