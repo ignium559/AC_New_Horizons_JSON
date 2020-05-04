@@ -59,8 +59,7 @@ zodiac                   //Villager's zodiac sign (string)
 data_url                 //Page data was pulled from based on Creative Commons licence (string)          
 ```
 
-*Note: A few villagers are included in the list whose data appears in the game, but are not used at this time*
-The following is a list of those villager:
+The following is a list of villagers whose data appears in the game (and the json file), but remain unused at this time:
 - Chai
 - Chelsea
 - Étoile
