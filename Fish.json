@@ -4251,9 +4251,12 @@
         "months": {
             "northern": {
                 "array": [
-                    0,
+                    12,
                     1,
-                    12
+                    2,
+                    3,
+                    4,
+                    5
                 ],
                 "text": "December - May"
             },
